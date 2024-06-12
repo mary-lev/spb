@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (3655405 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1102038176" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:35Z" user="KonTur" uid="43262" lat="59.9349259" lon="30.2965075"/>
+ <node id="1102038220" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:36Z" user="KonTur" uid="43262" lat="59.9348651" lon="30.2964337"/>
+ <node id="1102038227" visible="true" version="2" changeset="34997389" timestamp="2015-10-31T18:09:17Z" user="yuryleb" uid="446083" lat="59.9344637" lon="30.2968336"/>
+ <node id="1102038242" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:37Z" user="KonTur" uid="43262" lat="59.9346022" lon="30.2967072"/>
+ <node id="1102038275" visible="true" version="2" changeset="34997389" timestamp="2015-10-31T18:09:16Z" user="yuryleb" uid="446083" lat="59.9346910" lon="30.2970122"/>
+ <node id="1102038281" visible="true" version="2" changeset="34997389" timestamp="2015-10-31T18:09:16Z" user="yuryleb" uid="446083" lat="59.9342836" lon="30.2970520"/>
+ <node id="1102038311" visible="true" version="2" changeset="60233132" timestamp="2018-06-28T02:51:12Z" user="Anton Khorev" uid="437809" lat="59.9343631" lon="30.2975839"/>
+ <node id="1102038323" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:40Z" user="KonTur" uid="43262" lat="59.9348739" lon="30.2964217"/>
+ <node id="1102038363" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:42Z" user="KonTur" uid="43262" lat="59.9347122" lon="30.2964710"/>
+ <node id="1102038375" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:42Z" user="KonTur" uid="43262" lat="59.9349128" lon="30.2965266"/>
+ <node id="1102038387" visible="true" version="2" changeset="60233132" timestamp="2018-06-28T02:51:12Z" user="Anton Khorev" uid="437809" lat="59.9341836" lon="30.2969863"/>
+ <node id="1102038397" visible="true" version="2" changeset="7725547" timestamp="2011-03-31T12:18:04Z" user="fserges" uid="368493" lat="59.9344461" lon="30.2974829"/>
+ <node id="1102038448" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:44Z" user="KonTur" uid="43262" lat="59.9349090" lon="30.2964561"/>
+ <node id="1102038459" visible="true" version="2" changeset="34997389" timestamp="2015-10-31T18:09:15Z" user="yuryleb" uid="446083" lat="59.9343843" lon="30.2973825"/>
+ <node id="1102038507" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:45Z" user="KonTur" uid="43262" lat="59.9349228" lon="30.2966049"/>
+ <node id="1102038514" visible="true" version="2" changeset="34997389" timestamp="2015-10-31T18:09:16Z" user="yuryleb" uid="446083" lat="59.9345177" lon="30.2967195"/>
+ <node id="1102038529" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:46Z" user="KonTur" uid="43262" lat="59.9347904" lon="30.2962120"/>
+ <node id="1102038532" visible="true" version="2" changeset="34997389" timestamp="2015-10-31T18:09:17Z" user="yuryleb" uid="446083" lat="59.9347348" lon="30.2965442"/>
+ <node id="1102038595" visible="true" version="2" changeset="34997389" timestamp="2015-10-31T18:09:16Z" user="yuryleb" uid="446083" lat="59.9345643" lon="30.2971641"/>
+ <node id="1102038602" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:47Z" user="KonTur" uid="43262" lat="59.9348952" lon="30.2964724"/>
+ <node id="1102038627" visible="true" version="2" changeset="7725547" timestamp="2011-03-31T12:17:43Z" user="fserges" uid="368493" lat="59.9346659" lon="30.2972155"/>
+ <node id="1102038667" visible="true" version="2" changeset="34997389" timestamp="2015-10-31T18:09:16Z" user="yuryleb" uid="446083" lat="59.9346257" lon="30.2970810"/>
+ <node id="1102038675" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:48Z" user="KonTur" uid="43262" lat="59.9349314" lon="30.2965863"/>
+ <node id="1102038744" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:50Z" user="KonTur" uid="43262" lat="59.9349940" lon="30.2968162"/>
+ <node id="3625611707" visible="true" version="1" changeset="32291125" timestamp="2015-06-29T18:24:37Z" user="EIjas" uid="700550" lat="59.9348055" lon="30.2962568">
+  <tag k="addr:housenumber" v="16"/>
+  <tag k="addr:street" v="Английская набережная"/>
+ </node>
+ <node id="4174201170" visible="true" version="2" changeset="60233132" timestamp="2018-06-28T02:51:17Z" user="Anton Khorev" uid="437809" lat="59.9342759" lon="30.2972934"/>
+ <node id="4174201171" visible="true" version="1" changeset="39196930" timestamp="2016-05-09T17:44:48Z" user="mini-me" uid="3846961" lat="59.9343349" lon="30.2972202"/>
+ <way id="94946459" visible="true" version="6" changeset="39196930" timestamp="2016-05-09T17:46:43Z" user="mini-me" uid="3846961">
+  <nd ref="1102038529"/>
+  <nd ref="3625611707"/>
+  <nd ref="1102038220"/>
+  <nd ref="1102038323"/>
+  <nd ref="1102038602"/>
+  <nd ref="1102038448"/>
+  <nd ref="1102038176"/>
+  <nd ref="1102038375"/>
+  <nd ref="1102038675"/>
+  <nd ref="1102038507"/>
+  <nd ref="1102038744"/>
+  <nd ref="1102038627"/>
+  <nd ref="1102038397"/>
+  <nd ref="1102038311"/>
+  <nd ref="4174201170"/>
+  <nd ref="1102038387"/>
+  <nd ref="1102038529"/>
+ </way>
+ <!-- <way id="94946460" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:43Z" user="mini-me" uid="3846961">
+  <nd ref="1102038227"/>
+  <nd ref="1102038595"/>
+  <nd ref="1102038459"/>
+  <nd ref="4174201171"/>
+  <nd ref="1102038281"/>
+  <nd ref="1102038227"/>
+ </way> -->
+ <!-- <way id="94946478" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:54Z" user="KonTur" uid="43262">
+  <nd ref="1102038363"/>
+  <nd ref="1102038532"/>
+  <nd ref="1102038242"/>
+  <nd ref="1102038275"/>
+  <nd ref="1102038667"/>
+  <nd ref="1102038514"/>
+  <nd ref="1102038363"/>
+ </way> -->
+ <relation id="1374232" visible="true" version="7" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <member type="way" ref="94946459" role="outer"/>
+  <!-- <member type="way" ref="94946478" role="inner"/>
+  <member type="way" ref="94946460" role="inner"/> -->
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="190098"/>
+  <tag k="addr:street" v="Галерная улица"/>
+  <tag k="architect" v="Людвиг Францевич Фонтана"/>
+  <tag k="building" v="yes"/>
+  <tag k="old_name" v="Особняк П. П. Дурново"/>
+  <tag k="ref:egrokn" v="781510352500005"/>
+  <tag k="start_date" v="C18"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="owner_1809" v="Дурново, Генералъ Лейтенанта"/>
+  <tag k="address_1809" v="I Адмиралтейская часть, Английская набережная, д. 265"/>
+ </relation>
+</osm>
