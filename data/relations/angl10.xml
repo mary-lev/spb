@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (22841 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1102038278" visible="true" version="2" changeset="32291125" timestamp="2015-06-29T18:24:44Z" user="EIjas" uid="700550" lat="59.9347672" lon="30.2986023"/>
+ <node id="1102038315" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:40Z" user="KonTur" uid="43262" lat="59.9353974" lon="30.2979811"/>
+ <node id="1102038366" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:42Z" user="KonTur" uid="43262" lat="59.9353031" lon="30.2975843"/>
+ <node id="1102038371" visible="true" version="2" changeset="32291125" timestamp="2015-06-29T18:24:45Z" user="EIjas" uid="700550" lat="59.9346746" lon="30.2983213"/>
+ <node id="1102038435" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:44Z" user="KonTur" uid="43262" lat="59.9353309" lon="30.2977779"/>
+ <node id="1102038444" visible="true" version="2" changeset="60233132" timestamp="2018-06-28T02:51:12Z" user="Anton Khorev" uid="437809" lat="59.9347398" lon="30.2988379"/>
+ <node id="1102038466" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:44Z" user="KonTur" uid="43262" lat="59.9352127" lon="30.2974333"/>
+ <node id="1102038573" visible="true" version="2" changeset="32291125" timestamp="2015-06-29T18:24:45Z" user="EIjas" uid="700550" lat="59.9351132" lon="30.2978059"/>
+ <node id="1102038645" visible="true" version="3" changeset="60233132" timestamp="2018-06-28T02:51:12Z" user="Anton Khorev" uid="437809" lat="59.9345613" lon="30.2982437"/>
+ <node id="1102038670" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:48Z" user="KonTur" uid="43262" lat="59.9353586" lon="30.2977393"/>
+ <node id="1102038672" visible="true" version="2" changeset="32291125" timestamp="2015-06-29T18:24:45Z" user="EIjas" uid="700550" lat="59.9351919" lon="30.2980448"/>
+ <node id="1102038746" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:50Z" user="KonTur" uid="43262" lat="59.9352783" lon="30.2976206"/>
+ <node id="3625611740" visible="true" version="1" changeset="32291125" timestamp="2015-06-29T18:24:38Z" user="EIjas" uid="700550" lat="59.9348996" lon="30.2980145"/>
+ <node id="3625611741" visible="true" version="1" changeset="32291125" timestamp="2015-06-29T18:24:38Z" user="EIjas" uid="700550" lat="59.9349022" lon="30.2980224"/>
+ <node id="3625611742" visible="true" version="1" changeset="32291125" timestamp="2015-06-29T18:24:38Z" user="EIjas" uid="700550" lat="59.9349429" lon="30.2979577"/>
+ <node id="3625611743" visible="true" version="1" changeset="32291125" timestamp="2015-06-29T18:24:38Z" user="EIjas" uid="700550" lat="59.9349594" lon="30.2980078"/>
+ <node id="5895167863" visible="true" version="1" changeset="62436801" timestamp="2018-09-09T23:31:46Z" user="Anton Khorev" uid="437809" lat="59.9353779" lon="30.2979215">
+  <tag k="addr:housenumber" v="10"/>
+  <tag k="addr:street" v="Английская набережная"/>
+ </node>
+ <!-- <way id="94946472" visible="true" version="2" changeset="32291125" timestamp="2015-06-29T18:24:40Z" user="EIjas" uid="700550">
+  <nd ref="1102038573"/>
+  <nd ref="1102038672"/>
+  <nd ref="1102038278"/>
+  <nd ref="1102038371"/>
+  <nd ref="3625611741"/>
+  <nd ref="3625611740"/>
+  <nd ref="3625611742"/>
+  <nd ref="3625611743"/>
+  <nd ref="1102038573"/>
+ </way> -->
+ <way id="94946485" visible="true" version="7" changeset="62436801" timestamp="2018-09-09T23:31:46Z" user="Anton Khorev" uid="437809">
+  <nd ref="1102038466"/>
+  <nd ref="1102038746"/>
+  <nd ref="1102038366"/>
+  <nd ref="1102038670"/>
+  <nd ref="1102038435"/>
+  <nd ref="5895167863"/>
+  <nd ref="1102038315"/>
+  <nd ref="1102038444"/>
+  <nd ref="1102038645"/>
+  <nd ref="1102038466"/>
+ </way>
+ <relation id="1374235" visible="true" version="8" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <member type="way" ref="94946485" role="outer"/>
+  <!-- <member type="way" ref="94946472" role="inner"/> -->
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="190098"/>
+  <tag k="addr:street" v="Галерная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="old_name" v="Дом А. Л. Нарышкина (Воронцовых-Дашковых)"/>
+  <tag k="ref:egrokn" v="781510355240006"/>
+  <tag k="start_date" v="1738"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="owner_1809" v="Нарышкиной, Анны Никитишны Оберъ Гофмейстерины"/>
+  <tag k="address_1809" v="I Адмиралтейская часть, Английская набережная, д. 268"/>
+ </relation>
+</osm>

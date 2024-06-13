@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (3655386 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1102038197" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:35Z" user="KonTur" uid="43262" lat="59.9346743" lon="30.2979596"/>
+ <node id="1102038262" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:38Z" user="KonTur" uid="43262" lat="59.9350729" lon="30.2970328"/>
+ <node id="1102038300" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:39Z" user="KonTur" uid="43262" lat="59.9346110" lon="30.2977386"/>
+ <node id="1102038466" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:44Z" user="KonTur" uid="43262" lat="59.9352127" lon="30.2974333"/>
+ <node id="1102038479" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:45Z" user="KonTur" uid="43262" lat="59.9349871" lon="30.2972783"/>
+ <node id="1102038565" visible="true" version="1" changeset="6957401" timestamp="2011-01-13T14:00:46Z" user="KonTur" uid="43262" lat="59.9350476" lon="30.2974910"/>
+ <node id="1102038645" visible="true" version="3" changeset="60233132" timestamp="2018-06-28T02:51:12Z" user="Anton Khorev" uid="437809" lat="59.9345613" lon="30.2982437"/>
+ <node id="1102038707" visible="true" version="3" changeset="60233132" timestamp="2018-06-28T02:51:12Z" user="Anton Khorev" uid="437809" lat="59.9344284" lon="30.2978011"/>
+ <node id="1466743772" visible="true" version="1" changeset="9553876" timestamp="2011-10-14T09:32:03Z" user="Ladogaost" uid="449232" lat="59.9349179" lon="30.2973630"/>
+ <node id="1466743781" visible="true" version="1" changeset="9553876" timestamp="2011-10-14T09:32:04Z" user="Ladogaost" uid="449232" lat="59.9349731" lon="30.2972954"/>
+ <node id="1466743790" visible="true" version="1" changeset="9553876" timestamp="2011-10-14T09:32:04Z" user="Ladogaost" uid="449232" lat="59.9350084" lon="30.2973530"/>
+ <node id="1466743793" visible="true" version="1" changeset="9553876" timestamp="2011-10-14T09:32:04Z" user="Ladogaost" uid="449232" lat="59.9350281" lon="30.2974225"/>
+ <node id="1466743794" visible="true" version="1" changeset="9553876" timestamp="2011-10-14T09:32:04Z" user="Ladogaost" uid="449232" lat="59.9350351" lon="30.2975067"/>
+ <node id="1466744543" visible="true" version="2" changeset="32291125" timestamp="2015-06-29T18:24:44Z" user="EIjas" uid="700550" lat="59.9351935" lon="30.2973783">
+  <tag k="addr:housenumber" v="12"/>
+  <tag k="addr:street" v="Английская набережная"/>
+ </node>
+ <node id="4174201161" visible="true" version="1" changeset="39196930" timestamp="2016-05-09T17:44:47Z" user="mini-me" uid="3846961" lat="59.9346432" lon="30.2978510"/>
+ <node id="4174201162" visible="true" version="3" changeset="60233132" timestamp="2018-06-28T02:51:16Z" user="Anton Khorev" uid="437809" lat="59.9344957" lon="30.2980253">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="4174201164" visible="true" version="3" changeset="60233132" timestamp="2018-06-28T02:51:16Z" user="Anton Khorev" uid="437809" lat="59.9345027" lon="30.2980485">
+  <tag k="entrance" v="staircase"/>
+ </node>
+ <node id="4174201165" visible="true" version="3" changeset="60233132" timestamp="2018-06-28T02:51:16Z" user="Anton Khorev" uid="437809" lat="59.9344880" lon="30.2979995">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <way id="94946469" visible="true" version="7" changeset="39213127" timestamp="2016-05-10T10:58:07Z" user="mini-me" uid="3846961">
+  <nd ref="1102038262"/>
+  <nd ref="1466744543"/>
+  <nd ref="1102038466"/>
+  <nd ref="1102038645"/>
+  <nd ref="4174201164"/>
+  <nd ref="4174201162"/>
+  <nd ref="4174201165"/>
+  <nd ref="1102038707"/>
+  <nd ref="1102038262"/>
+ </way>
+ <!-- <way id="94946475" visible="true" version="3" changeset="39196930" timestamp="2016-05-09T17:46:41Z" user="mini-me" uid="3846961">
+  <nd ref="1102038479"/>
+  <nd ref="1466743790"/>
+  <nd ref="1466743793"/>
+  <nd ref="1102038565"/>
+  <nd ref="1466743794"/>
+  <nd ref="1102038197"/>
+  <nd ref="4174201161"/>
+  <nd ref="1102038300"/>
+  <nd ref="1466743772"/>
+  <nd ref="1466743781"/>
+  <nd ref="1102038479"/>
+ </way> -->
+ <relation id="1374230" visible="true" version="6" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <member type="way" ref="94946469" role="outer"/>
+  <!-- <member type="way" ref="94946475" role="inner"/> -->
+  <tag k="addr:city" v="Санкт-Петербург"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="190098"/>
+  <tag k="addr:street" v="Галерная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="old_name" v="Дом М. Маркевича"/>
+  <tag k="start_date" v="C18"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="owner_1809" v="Татищева, Графа Николая Алексеевича, Генерала от Инфантерии"/>
+  <tag k="address_1809" v="I Адмиралтейская часть, Английская набережная, д. 267"/>
+ </relation>
+</osm>
