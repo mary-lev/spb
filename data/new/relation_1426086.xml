@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2743273 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1152471569" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:10Z" user="mini-me" uid="3846961" lat="59.9321506" lon="30.2902337"/>
+ <node id="1152471606" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:12Z" user="KonTur" uid="43262" lat="59.9323785" lon="30.2898476"/>
+ <node id="1152471642" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9324168" lon="30.2895518"/>
+ <node id="1152471647" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9327746" lon="30.2891104"/>
+ <node id="1152471665" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9328845" lon="30.2895761"/>
+ <node id="1152471699" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:38Z" user="fserges" uid="368493" lat="59.9322670" lon="30.2901225"/>
+ <node id="1152471711" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:43Z" user="fserges" uid="368493" lat="59.9323635" lon="30.2900299"/>
+ <node id="1152471725" visible="true" version="2" changeset="7725026" timestamp="2011-03-31T11:00:50Z" user="fserges" uid="368493" lat="59.9327597" lon="30.2891231"/>
+ <node id="1152471753" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:15Z" user="KonTur" uid="43262" lat="59.9326606" lon="30.2893490"/>
+ <node id="1152471773" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:40Z" user="fserges" uid="368493" lat="59.9322247" lon="30.2899681"/>
+ <node id="1152471913" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9326921" lon="30.2896015"/>
+ <node id="1152471918" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:37Z" user="fserges" uid="368493" lat="59.9321804" lon="30.2898066"/>
+ <node id="1152471984" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:21Z" user="KonTur" uid="43262" lat="59.9323456" lon="30.2896735"/>
+ <node id="1152472024" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:22Z" user="KonTur" uid="43262" lat="59.9324738" lon="30.2898251"/>
+ <node id="1152472043" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:10Z" user="mini-me" uid="3846961" lat="59.9320182" lon="30.2897623"/>
+ <node id="1152472054" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:42Z" user="fserges" uid="368493" lat="59.9325903" lon="30.2898323"/>
+ <node id="3169340494" visible="true" version="1" changeset="26581236" timestamp="2014-11-05T21:45:16Z" user="VlIvYur" uid="345975" lat="59.9328323" lon="30.2893548">
+  <tag k="entrance" v="main"/>
+ </node>
+ <node id="3625611724" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:10Z" user="mini-me" uid="3846961" lat="59.9321331" lon="30.2901713">
+  <tag k="addr:housenumber" v="45"/>
+  <tag k="addr:street" v="Галерная улица"/>
+ </node>
+ <node id="4174870242" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:44Z" user="mini-me" uid="3846961" lat="59.9320812" lon="30.2899864">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="4174870243" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:44Z" user="mini-me" uid="3846961" lat="59.9322028" lon="30.2898882"/>
+ <node id="4174870244" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:44Z" user="mini-me" uid="3846961" lat="59.9323628" lon="30.2897643"/>
+ <node id="4174870245" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:44Z" user="mini-me" uid="3846961" lat="59.9324470" lon="30.2896966"/>
+ <node id="4174870249" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:44Z" user="mini-me" uid="3846961" lat="59.9320646" lon="30.2899276">
+  <tag k="entrance" v="main"/>
+ </node>
+ <node id="10833486224" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9327006" lon="30.2896364"/>
+ <node id="10833486225" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9327096" lon="30.2895839"/>
+ <node id="10833486226" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9326453" lon="30.2894790"/>
+ <node id="10833486227" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9326558" lon="30.2894415"/>
+ <node id="10833486228" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9326793" lon="30.2895577"/>
+ <node id="10833486229" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9326628" lon="30.2895480"/>
+ <node id="10833486230" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9326489" lon="30.2895190"/>
+ <node id="10833486231" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9327020" lon="30.2895473"/>
+ <node id="10833486232" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9326748" lon="30.2894170"/>
+ <way id="99677512" visible="true" version="8" changeset="39202279" timestamp="2016-05-09T21:45:24Z" user="mini-me" uid="3846961">
+  <nd ref="1152471665"/>
+  <nd ref="1152472054"/>
+  <nd ref="1152471711"/>
+  <nd ref="1152471699"/>
+  <nd ref="1152471569"/>
+  <nd ref="3625611724"/>
+  <nd ref="4174870242"/>
+  <nd ref="4174870249"/>
+  <nd ref="1152472043"/>
+  <nd ref="1152471725"/>
+  <nd ref="1152471647"/>
+  <nd ref="3169340494"/>
+  <nd ref="1152471665"/>
+ </way>
+ <way id="99677531" visible="true" version="3" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961">
+  <nd ref="1152471642"/>
+  <nd ref="1152471753"/>
+  <nd ref="10833486232"/>
+  <nd ref="10833486227"/>
+  <nd ref="10833486226"/>
+  <nd ref="10833486230"/>
+  <nd ref="10833486229"/>
+  <nd ref="10833486228"/>
+  <nd ref="10833486231"/>
+  <nd ref="10833486225"/>
+  <nd ref="1152471913"/>
+  <nd ref="10833486224"/>
+  <nd ref="1152472024"/>
+  <nd ref="4174870245"/>
+  <nd ref="1152471642"/>
+ </way>
+ <way id="99677576" visible="true" version="2" changeset="39202279" timestamp="2016-05-09T21:45:25Z" user="mini-me" uid="3846961">
+  <nd ref="1152471918"/>
+  <nd ref="1152471984"/>
+  <nd ref="4174870244"/>
+  <nd ref="1152471606"/>
+  <nd ref="1152471773"/>
+  <nd ref="4174870243"/>
+  <nd ref="1152471918"/>
+ </way>
+ <relation id="1426086" visible="true" version="21" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <member type="way" ref="99677512" role="outer"/>
+  <member type="way" ref="99677531" role="inner"/>
+  <member type="way" ref="99677576" role="inner"/>
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Английская набережная"/>
+  <tag k="architect" v="Василий Алексеевич Глинка"/>
+  <tag k="architect:wikidata" v="Q21523606"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="contact:vk" v="https://vk.com/club31752242"/>
+  <tag k="name" v="Особняк Румянцева"/>
+  <tag k="name:en" v="Rumyantsev mansion"/>
+  <tag k="old_name" v="Дом Н. П. Румянцева (Е. Л. Кочубея)"/>
+  <tag k="opening_hours" v="11:00-18:00; We off"/>
+  <tag k="operator" v="СПб ГБУК «Государственный музей истории Санкт-Петербурга»"/>
+  <tag k="operator:wikidata" v="Q4146886"/>
+  <tag k="ref:egrokn" v="781510342780006"/>
+  <tag k="start_date" v="~1730"/>
+  <tag k="tourism" v="museum"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="website" v="https://www.spbmuseum.ru/themuseum/museum_complex/rumyantsev_mansion/"/>
+  <tag k="wikidata" v="Q3360919"/>
+  <tag k="wikipedia" v="ru:Особняк Румянцева"/>
+ </relation>
+</osm>

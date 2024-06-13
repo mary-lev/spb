@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2054241 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1152471641" visible="true" version="2" changeset="7725479" timestamp="2011-03-31T12:06:25Z" user="fserges" uid="368493" lat="59.9318517" lon="30.2874312"/>
+ <node id="1152471646" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9321837" lon="30.2866955"/>
+ <node id="1152471663" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9323058" lon="30.2872108"/>
+ <node id="1152471681" visible="true" version="2" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9320325" lon="30.2870669"/>
+ <node id="1152471735" visible="true" version="2" changeset="7725479" timestamp="2011-03-31T12:06:24Z" user="fserges" uid="368493" lat="59.9318764" lon="30.2875548"/>
+ <node id="1152471770" visible="true" version="2" changeset="7725479" timestamp="2011-03-31T12:06:09Z" user="fserges" uid="368493" lat="59.9317751" lon="30.2870532"/>
+ <node id="1152471911" visible="true" version="3" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9318010" lon="30.2871773"/>
+ <node id="1152471953" visible="true" version="2" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9321039" lon="30.2871864"/>
+ <node id="4174873027" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:57Z" user="mini-me" uid="3846961" lat="59.9321964" lon="30.2867490">
+  <tag k="entrance" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="4174873028" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:57Z" user="mini-me" uid="3846961" lat="59.9322028" lon="30.2867759">
+  <tag k="entrance" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="10833489025" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9321357" lon="30.2871592"/>
+ <node id="10833489026" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9321469" lon="30.2872076"/>
+ <node id="10833489027" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9320915" lon="30.2872538"/>
+ <node id="10833489028" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9320817" lon="30.2872047"/>
+ <node id="10833489029" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9320695" lon="30.2870361"/>
+ <node id="10833489030" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9320235" lon="30.2870299"/>
+ <node id="10833489031" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9322902" lon="30.2871449">
+  <tag k="addr:housenumber" v="56"/>
+  <tag k="addr:street" v="Английская набережная"/>
+ </node>
+ <node id="10833489032" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9319127" lon="30.2873835"/>
+ <node id="10833489033" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9319057" lon="30.2873498"/>
+ <node id="10833489038" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9318538" lon="30.2871339"/>
+ <node id="10833489039" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9318599" lon="30.2871639"/>
+ <way id="99677590" visible="true" version="13" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <nd ref="1152471646"/>
+  <nd ref="4174873027"/>
+  <nd ref="4174873028"/>
+  <nd ref="10833489031"/>
+  <nd ref="1152471663"/>
+  <nd ref="1152471735"/>
+  <nd ref="1152471641"/>
+  <nd ref="10833489032"/>
+  <nd ref="10833489033"/>
+  <nd ref="10833489028"/>
+  <nd ref="10833489027"/>
+  <nd ref="10833489026"/>
+  <nd ref="10833489025"/>
+  <nd ref="1152471953"/>
+  <nd ref="10833489029"/>
+  <nd ref="1152471681"/>
+  <nd ref="10833489030"/>
+  <nd ref="10833489039"/>
+  <nd ref="10833489038"/>
+  <nd ref="1152471911"/>
+  <nd ref="1152471770"/>
+  <nd ref="1152471646"/>
+  <tag k="addr:housenumber" v="57 литБ"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Галерная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="name" v="Англиканская церковь Иисуса Христа"/>
+  <tag k="ref:egrokn" v="781510352710026"/>
+  <tag k="start_date" v="~1730"/>
+  <tag k="wikidata" v="Q4065171"/>
+ </way>
+</osm>

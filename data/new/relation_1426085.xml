@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2054245 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1152471588" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:12Z" user="KonTur" uid="43262" lat="59.9316100" lon="30.2866966"/>
+ <node id="1152471608" visible="true" version="2" changeset="7725479" timestamp="2011-03-31T12:06:45Z" user="fserges" uid="368493" lat="59.9316927" lon="30.2867006"/>
+ <node id="1152471644" visible="true" version="2" changeset="7725479" timestamp="2011-03-31T12:06:28Z" user="fserges" uid="368493" lat="59.9315181" lon="30.2868523"/>
+ <node id="1152471656" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9316564" lon="30.2865393"/>
+ <node id="1152471763" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:16Z" user="KonTur" uid="43262" lat="59.9315721" lon="30.2867312"/>
+ <node id="1152471785" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:16Z" user="KonTur" uid="43262" lat="59.9320312" lon="30.2860517"/>
+ <node id="1152471839" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:17Z" user="KonTur" uid="43262" lat="59.9321009" lon="30.2863462"/>
+ <node id="1152471874" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:18Z" user="KonTur" uid="43262" lat="59.9315396" lon="30.2865893"/>
+ <node id="1152471883" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9318757" lon="30.2863362"/>
+ <node id="1152471971" visible="true" version="3" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9319549" lon="30.2864721"/>
+ <node id="1152471973" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:20Z" user="KonTur" uid="43262" lat="59.9315775" lon="30.2865546"/>
+ <node id="1152472030" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:22Z" user="KonTur" uid="43262" lat="59.9314547" lon="30.2865911"/>
+ <node id="3169340488" visible="true" version="1" changeset="26581236" timestamp="2014-11-05T21:45:16Z" user="VlIvYur" uid="345975" lat="59.9320680" lon="30.2862071">
+  <tag k="entrance" v="main"/>
+ </node>
+ <node id="10833486261" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9319399" lon="30.2864101"/>
+ <node id="10833486262" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9319014" lon="30.2864460"/>
+ <node id="11077977298" visible="true" version="1" changeset="139234760" timestamp="2023-07-31T05:10:47Z" user="llxll" uid="10348058" lat="59.9314771" lon="30.2866834"/>
+ <node id="11077977299" visible="true" version="1" changeset="139234760" timestamp="2023-07-31T05:10:47Z" user="llxll" uid="10348058" lat="59.9315486" lon="30.2866284"/>
+ <node id="11077977300" visible="true" version="1" changeset="139234760" timestamp="2023-07-31T05:10:47Z" user="llxll" uid="10348058" lat="59.9315981" lon="30.2866447"/>
+ <node id="11077977301" visible="true" version="1" changeset="139234760" timestamp="2023-07-31T05:10:47Z" user="llxll" uid="10348058" lat="59.9316674" lon="30.2865880"/>
+ <way id="99677538" visible="true" version="2" changeset="139234760" timestamp="2023-07-31T05:10:47Z" user="llxll" uid="10348058">
+  <nd ref="1152471973"/>
+  <nd ref="11077977300"/>
+  <nd ref="1152471588"/>
+  <nd ref="1152471763"/>
+  <nd ref="11077977299"/>
+  <nd ref="1152471874"/>
+  <nd ref="1152471973"/>
+ </way>
+ <way id="99677587" visible="true" version="6" changeset="139234760" timestamp="2023-07-31T05:10:47Z" user="llxll" uid="10348058">
+  <nd ref="1152471785"/>
+  <nd ref="3169340488"/>
+  <nd ref="1152471839"/>
+  <nd ref="1152471971"/>
+  <nd ref="10833486261"/>
+  <nd ref="10833486262"/>
+  <nd ref="1152471883"/>
+  <nd ref="1152471656"/>
+  <nd ref="11077977301"/>
+  <nd ref="1152471608"/>
+  <nd ref="1152471644"/>
+  <nd ref="11077977298"/>
+  <nd ref="1152472030"/>
+  <nd ref="1152471785"/>
+ </way>
+ <relation id="1426085" visible="true" version="10" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <member type="way" ref="99677587" role="outer"/>
+  <member type="way" ref="99677538" role="inner"/>
+  <tag k="addr:housenumber" v="60"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Английская набережная"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="old_name" v="Дом Н. Н. Теплова"/>
+  <tag k="ref:egrokn" v="781510353010005"/>
+  <tag k="start_date" v="1870"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>

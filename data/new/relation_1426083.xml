@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (245788 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1152471573" visible="true" version="2" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9318798" lon="30.2876610"/>
+ <node id="1152471663" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9323058" lon="30.2872108"/>
+ <node id="1152471702" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9321961" lon="30.2875132"/>
+ <node id="1152471728" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:15Z" user="KonTur" uid="43262" lat="59.9324008" lon="30.2876119"/>
+ <node id="1152471735" visible="true" version="2" changeset="7725479" timestamp="2011-03-31T12:06:24Z" user="fserges" uid="368493" lat="59.9318764" lon="30.2875548"/>
+ <node id="1152471751" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:11Z" user="mini-me" uid="3846961" lat="59.9315658" lon="30.2881524"/>
+ <node id="1152471810" visible="true" version="2" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9316744" lon="30.2878571"/>
+ <node id="1152471818" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9322153" lon="30.2875876"/>
+ <node id="1152471879" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9321178" lon="30.2877281"/>
+ <node id="1152471917" visible="true" version="2" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9319386" lon="30.2879212"/>
+ <node id="1152471961" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:11Z" user="mini-me" uid="3846961" lat="59.9316063" lon="30.2882966"/>
+ <node id="1152472037" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9320798" lon="30.2875570"/>
+ <node id="1152472051" visible="true" version="3" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9316496" lon="30.2877359"/>
+ <node id="3625611728" visible="true" version="3" changeset="62392530" timestamp="2018-09-08T03:12:30Z" user="Anton Khorev" uid="437809" lat="59.9323295" lon="30.2873102">
+  <tag k="addr:housenumber" v="54"/>
+  <tag k="addr:street" v="Английская набережная"/>
+ </node>
+ <node id="4174870277" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9315859" lon="30.2882239">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="4174873029" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:57Z" user="mini-me" uid="3846961" lat="59.9323200" lon="30.2872700">
+  <tag k="entrance" v="yes"/>
+  <tag k="wheelchair" v="limited"/>
+ </node>
+ <node id="10833486237" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9319127" lon="30.2878068"/>
+ <node id="10833486238" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9320998" lon="30.2876470"/>
+ <node id="10833486241" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9316763" lon="30.2881319"/>
+ <node id="10833486242" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9315926" lon="30.2880985"/>
+ <node id="10833486243" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9316220" lon="30.2880716"/>
+ <node id="10833486244" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9316040" lon="30.2880777"/>
+ <node id="10833486245" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9315895" lon="30.2881305"/>
+ <node id="10833486246" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9316371" lon="30.2880864"/>
+ <node id="10833486247" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9317353" lon="30.2881160"/>
+ <node id="10833486248" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9317434" lon="30.2880566"/>
+ <node id="10833486249" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9317677" lon="30.2880343"/>
+ <node id="10833486250" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9317604" lon="30.2880019"/>
+ <node id="10833486251" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9316837" lon="30.2881614"/>
+ <node id="10833486252" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9316595" lon="30.2880656"/>
+ <node id="10833486253" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9322182" lon="30.2875624"/>
+ <node id="10833486254" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9322305" lon="30.2875498"/>
+ <node id="10833486255" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9322168" lon="30.2874940"/>
+ <node id="10833486256" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9321645" lon="30.2874818"/>
+ <node id="10833486257" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9322358" lon="30.2876866"/>
+ <node id="10833486258" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9321457" lon="30.2877611"/>
+ <node id="10833489034" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9319026" lon="30.2879502"/>
+ <node id="10833489035" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9318880" lon="30.2878904"/>
+ <node id="10833489036" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9318269" lon="30.2877011"/>
+ <node id="10833489037" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9318342" lon="30.2877358"/>
+ <node id="10833489045" visible="true" version="1" changeset="135252293" timestamp="2023-04-23T08:15:45Z" user="mini-me" uid="3846961" lat="59.9316806" lon="30.2877122"/>
+ <way id="99677551" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961">
+  <nd ref="1152472037"/>
+  <nd ref="10833486256"/>
+  <nd ref="1152471702"/>
+  <nd ref="10833486255"/>
+  <nd ref="10833486254"/>
+  <nd ref="10833486253"/>
+  <nd ref="1152471818"/>
+  <nd ref="10833486257"/>
+  <nd ref="10833486258"/>
+  <nd ref="1152471879"/>
+  <nd ref="10833486238"/>
+  <nd ref="1152472037"/>
+ </way>
+ <way id="99677583" visible="true" version="9" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961">
+  <nd ref="1152471728"/>
+  <nd ref="1152471961"/>
+  <nd ref="4174870277"/>
+  <nd ref="1152471751"/>
+  <nd ref="10833486245"/>
+  <nd ref="10833486242"/>
+  <nd ref="10833486244"/>
+  <nd ref="10833486243"/>
+  <nd ref="10833486246"/>
+  <nd ref="10833486252"/>
+  <nd ref="10833486241"/>
+  <nd ref="10833486251"/>
+  <nd ref="10833486247"/>
+  <nd ref="10833486248"/>
+  <nd ref="10833486249"/>
+  <nd ref="10833486250"/>
+  <nd ref="10833489035"/>
+  <nd ref="10833489034"/>
+  <nd ref="1152471917"/>
+  <nd ref="10833486237"/>
+  <nd ref="1152471573"/>
+  <nd ref="10833489036"/>
+  <nd ref="10833489037"/>
+  <nd ref="1152471810"/>
+  <nd ref="1152472051"/>
+  <nd ref="10833489045"/>
+  <nd ref="1152471735"/>
+  <nd ref="1152471663"/>
+  <nd ref="4174873029"/>
+  <nd ref="3625611728"/>
+  <nd ref="1152471728"/>
+ </way>
+ <relation id="1426083" visible="true" version="20" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <member type="way" ref="99677583" role="outer"/>
+  <member type="way" ref="99677551" role="inner"/>
+  <tag k="addr:housenumber" v="55"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Галерная улица"/>
+  <tag k="architect" v="Карл Карлович Рахау"/>
+  <tag k="architect:wikidata" v="Q4391054"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="name" v="Дворец Великого князя Михаила Александровича"/>
+  <tag k="ref:egrokn" v="781510357620006"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="wikidata" v="Q109591710"/>
+ </relation>
+</osm>

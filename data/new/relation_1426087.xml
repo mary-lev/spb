@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (1537343 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1152471568" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:11Z" user="KonTur" uid="43262" lat="59.9319717" lon="30.2882945"/>
+ <node id="1152471603" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:12Z" user="KonTur" uid="43262" lat="59.9319417" lon="30.2881621"/>
+ <node id="1152471613" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:12Z" user="KonTur" uid="43262" lat="59.9322969" lon="30.2880187"/>
+ <node id="1152471677" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:14Z" user="KonTur" uid="43262" lat="59.9322688" lon="30.2878863"/>
+ <node id="1152471728" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:15Z" user="KonTur" uid="43262" lat="59.9324008" lon="30.2876119"/>
+ <node id="1152471747" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:11Z" user="mini-me" uid="3846961" lat="59.9317126" lon="30.2886751"/>
+ <node id="1152471796" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:16Z" user="KonTur" uid="43262" lat="59.9320189" lon="30.2880972"/>
+ <node id="1152471833" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:51Z" user="fserges" uid="368493" lat="59.9318073" lon="30.2884450"/>
+ <node id="1152471851" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:18Z" user="KonTur" uid="43262" lat="59.9324964" lon="30.2880154"/>
+ <node id="1152471933" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:38Z" user="fserges" uid="368493" lat="59.9317695" lon="30.2883069"/>
+ <node id="1152471961" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:11Z" user="mini-me" uid="3846961" lat="59.9316063" lon="30.2882966"/>
+ <node id="1152472006" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:21Z" user="KonTur" uid="43262" lat="59.9320469" lon="30.2882296"/>
+ <node id="3169340490" visible="true" version="2" changeset="39202279" timestamp="2016-05-09T21:45:19Z" user="mini-me" uid="3846961" lat="59.9324172" lon="30.2876810">
+  <tag k="entrance" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="3625611727" visible="true" version="1" changeset="32291125" timestamp="2015-06-29T18:24:38Z" user="EIjas" uid="700550" lat="59.9324776" lon="30.2879359">
+  <tag k="addr:housenumber" v="52"/>
+  <tag k="addr:street" v="Английская набережная"/>
+ </node>
+ <node id="4174870269" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9316590" lon="30.2884846">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="4174870270" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9317888" lon="30.2883772"/>
+ <node id="4174870271" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9319568" lon="30.2882286"/>
+ <node id="4174870274" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:48Z" user="mini-me" uid="3846961" lat="59.9316475" lon="30.2884432">
+  <tag k="entrance" v="main"/>
+ </node>
+ <node id="6035389440" visible="true" version="15" changeset="141361632" timestamp="2023-09-16T23:16:38Z" user="traveleditor" uid="8726248" lat="59.9317085" lon="30.2886604">
+  <tag k="historic" v="memorial"/>
+  <tag k="inscription" v="В этом доме жил Александр Сергеевич Пушкин в 1831-1832 г."/>
+  <tag k="memorial" v="plaque"/>
+  <tag k="memorial:subject" v="Александр Сергеевич Пушкин"/>
+  <tag k="name" v="А. С. Пушкину"/>
+  <tag k="subject:wikidata" v="Q7200"/>
+  <tag k="subject:wikipedia" v="ru:Пушкин, Александр Сергеевич"/>
+ </node>
+ <node id="6035389441" visible="true" version="15" changeset="141361632" timestamp="2023-09-16T23:16:38Z" user="traveleditor" uid="8726248" lat="59.9316107" lon="30.2883123">
+  <tag k="historic" v="memorial"/>
+  <tag k="inscription" v="В этом доме в 1887-88 годах жил великий русский путешественник и учёный Николай Николаевич Миклухо-Маклай"/>
+  <tag k="memorial" v="plaque"/>
+  <tag k="memorial:subject" v="Николай Николаевич Миклухо-Маклай"/>
+  <tag k="name" v="Н. Н. Миклухо-Маклаю"/>
+  <tag k="subject:wikidata" v="Q312499"/>
+  <tag k="subject:wikipedia" v="ru:Миклухо-Маклай, Николай Николаевич"/>
+ </node>
+ <node id="10833486235" visible="true" version="1" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961" lat="59.9320332" lon="30.2881646"/>
+ <way id="99677525" visible="true" version="11" changeset="71767780" timestamp="2019-07-01T00:40:25Z" user="Anton Khorev" uid="437809">
+  <nd ref="1152471851"/>
+  <nd ref="1152471747"/>
+  <nd ref="6035389440"/>
+  <nd ref="4174870269"/>
+  <nd ref="4174870274"/>
+  <nd ref="6035389441"/>
+  <nd ref="1152471961"/>
+  <nd ref="1152471728"/>
+  <nd ref="3169340490"/>
+  <nd ref="3625611727"/>
+  <nd ref="1152471851"/>
+  <tag k="contact:vk" v="https://vk.com/happypushkinhotel"/>
+  <tag k="name" v="Счастливый Пушкин"/>
+  <tag k="name:en" v="Happy Pushkin"/>
+  <tag k="name:ru" v="Счастливый Пушкин"/>
+  <tag k="tourism" v="hotel"/>
+  <tag k="website" v="http://www.happypushkin.com/"/>
+ </way>
+ <way id="99677528" visible="true" version="3" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961">
+  <nd ref="1152471568"/>
+  <nd ref="1152471833"/>
+  <nd ref="4174870270"/>
+  <nd ref="1152471933"/>
+  <nd ref="1152471603"/>
+  <nd ref="4174870271"/>
+  <nd ref="1152471568"/>
+ </way>
+ <way id="99677578" visible="true" version="2" changeset="135252592" timestamp="2023-04-23T08:30:03Z" user="mini-me" uid="3846961">
+  <nd ref="1152472006"/>
+  <nd ref="10833486235"/>
+  <nd ref="1152471796"/>
+  <nd ref="1152471677"/>
+  <nd ref="1152471613"/>
+  <nd ref="1152472006"/>
+ </way>
+ <relation id="1426087" visible="true" version="9" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <member type="way" ref="99677525" role="outer"/>
+  <member type="way" ref="99677528" role="inner"/>
+  <member type="way" ref="99677578" role="inner"/>
+  <tag k="addr:housenumber" v="53"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Галерная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="old_name" v="Дом Я. А. Потемкина"/>
+  <tag k="ref:egrokn" v="781510343200005"/>
+  <tag k="start_date" v="~1730"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>

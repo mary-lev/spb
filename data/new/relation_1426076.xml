@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (3655390 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1152471566" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:11Z" user="KonTur" uid="43262" lat="59.9312922" lon="30.2864978"/>
+ <node id="1152471586" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:12Z" user="KonTur" uid="43262" lat="59.9318448" lon="30.2859917"/>
+ <node id="1152471607" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:12Z" user="mini-me" uid="3846961" lat="59.9311001" lon="30.2865114"/>
+ <node id="1152471744" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:15Z" user="KonTur" uid="43262" lat="59.9317253" lon="30.2861032"/>
+ <node id="1152471755" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:15Z" user="KonTur" uid="43262" lat="59.9318600" lon="30.2860639"/>
+ <node id="1152471785" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:16Z" user="KonTur" uid="43262" lat="59.9320312" lon="30.2860517"/>
+ <node id="1152471795" visible="true" version="2" changeset="7725479" timestamp="2011-03-31T12:06:45Z" user="fserges" uid="368493" lat="59.9313385" lon="30.2866790"/>
+ <node id="1152471820" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:17Z" user="KonTur" uid="43262" lat="59.9317828" lon="30.2861288"/>
+ <node id="1152471885" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:18Z" user="KonTur" uid="43262" lat="59.9314275" lon="30.2864744"/>
+ <node id="1152471924" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:19Z" user="KonTur" uid="43262" lat="59.9317675" lon="30.2860566"/>
+ <node id="1152471989" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:21Z" user="KonTur" uid="43262" lat="59.9319612" lon="30.2857564"/>
+ <node id="1152472017" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:21Z" user="KonTur" uid="43262" lat="59.9317409" lon="30.2861837"/>
+ <node id="1152472030" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:22Z" user="KonTur" uid="43262" lat="59.9314547" lon="30.2865911"/>
+ <node id="1152472046" visible="true" version="3" changeset="39196930" timestamp="2016-05-09T17:46:12Z" user="mini-me" uid="3846961" lat="59.9311864" lon="30.2868169"/>
+ <node id="4174873026" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:56Z" user="mini-me" uid="3846961" lat="59.9319950" lon="30.2858988">
+  <tag k="entrance" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <way id="99677530" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:24Z" user="KonTur" uid="43262">
+  <nd ref="1152471755"/>
+  <nd ref="1152471820"/>
+  <nd ref="1152471924"/>
+  <nd ref="1152471586"/>
+  <nd ref="1152471755"/>
+ </way>
+ <way id="99677563" visible="true" version="6" changeset="39202279" timestamp="2016-05-09T21:45:35Z" user="mini-me" uid="3846961">
+  <nd ref="1152471989"/>
+  <nd ref="4174873026"/>
+  <nd ref="1152471785"/>
+  <nd ref="1152472030"/>
+  <nd ref="1152471885"/>
+  <nd ref="1152472017"/>
+  <nd ref="1152471744"/>
+  <nd ref="1152471566"/>
+  <nd ref="1152471795"/>
+  <nd ref="1152472046"/>
+  <nd ref="1152471607"/>
+  <nd ref="1152471989"/>
+ </way>
+ <relation id="1426076" visible="true" version="8" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <member type="way" ref="99677563" role="outer"/>
+  <member type="way" ref="99677530" role="inner"/>
+  <tag k="addr:housenumber" v="62"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Английская набережная"/>
+  <tag k="building" v="yes"/>
+  <tag k="old_name" v="Дом М. Н. Челищева (М. Л. и И. Л. Варшавских)"/>
+  <tag k="start_date" v="1858"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>

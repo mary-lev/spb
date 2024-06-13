@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (3655385 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1152471627" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9318128" lon="30.2851302"/>
+ <node id="1152471635" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9311779" lon="30.2852167"/>
+ <node id="1152471660" visible="true" version="3" changeset="135252092" timestamp="2023-04-23T08:07:47Z" user="mini-me" uid="3846961" lat="59.9312624" lon="30.2846197"/>
+ <node id="1152471667" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:13Z" user="KonTur" uid="43262" lat="59.9311203" lon="30.2848634"/>
+ <node id="1152471680" visible="true" version="2" changeset="135252092" timestamp="2023-04-23T08:07:47Z" user="mini-me" uid="3846961" lat="59.9316154" lon="30.2842985"/>
+ <node id="1152471734" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:15Z" user="KonTur" uid="43262" lat="59.9311874" lon="30.2848959"/>
+ <node id="1152471790" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:16Z" user="KonTur" uid="43262" lat="59.9308785" lon="30.2851108"/>
+ <node id="1152471807" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:16Z" user="KonTur" uid="43262" lat="59.9309891" lon="30.2853966"/>
+ <node id="1152471890" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:18Z" user="KonTur" uid="43262" lat="59.9314536" lon="30.2846444"/>
+ <node id="1152471938" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:20Z" user="KonTur" uid="43262" lat="59.9309100" lon="30.2852335"/>
+ <node id="1152471952" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:20Z" user="KonTur" uid="43262" lat="59.9310457" lon="30.2856333"/>
+ <node id="1152472010" visible="true" version="3" changeset="39202279" timestamp="2016-05-09T21:45:17Z" user="mini-me" uid="3846961" lat="59.9307193" lon="30.2851632"/>
+ <node id="1152472012" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:21Z" user="KonTur" uid="43262" lat="59.9315689" lon="30.2851309"/>
+ <node id="1152472016" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:12Z" user="mini-me" uid="3846961" lat="59.9309321" lon="30.2859166"/>
+ <node id="1152472022" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:22Z" user="KonTur" uid="43262" lat="59.9312345" lon="30.2854534"/>
+ <node id="1152472033" visible="true" version="3" changeset="135252092" timestamp="2023-04-23T08:07:47Z" user="mini-me" uid="3846961" lat="59.9309497" lon="30.2849301"/>
+ <node id="1152472056" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:22Z" user="KonTur" uid="43262" lat="59.9313027" lon="30.2853824"/>
+ <node id="1152472058" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:22Z" user="KonTur" uid="43262" lat="59.9311518" lon="30.2849861"/>
+ <node id="3169340486" visible="true" version="1" changeset="26581236" timestamp="2014-11-05T21:45:16Z" user="VlIvYur" uid="345975" lat="59.9317165" lon="30.2847237">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="3625611733" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:12Z" user="mini-me" uid="3846961" lat="59.9309116" lon="30.2858441">
+  <tag k="addr:housenumber" v="69"/>
+  <tag k="addr:street" v="Галерная улица"/>
+ </node>
+ <node id="3625611735" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:13Z" user="mini-me" uid="3846961" lat="59.9307426" lon="30.2852459">
+  <tag k="addr:housenumber" v="71"/>
+  <tag k="addr:street" v="Галерная улица"/>
+ </node>
+ <node id="4174873004" visible="true" version="2" changeset="69497934" timestamp="2019-04-23T17:24:03Z" user="mini-me" uid="3846961" lat="59.9308643" lon="30.2856765">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="6423935117" visible="true" version="1" changeset="69497934" timestamp="2019-04-23T17:24:03Z" user="mini-me" uid="3846961" lat="59.9310179" lon="30.2855170"/>
+ <node id="6423935118" visible="true" version="1" changeset="69497934" timestamp="2019-04-23T17:24:03Z" user="mini-me" uid="3846961" lat="59.9312058" lon="30.2853334"/>
+ <node id="6423935119" visible="true" version="1" changeset="69497934" timestamp="2019-04-23T17:24:03Z" user="mini-me" uid="3846961" lat="59.9312751" lon="30.2852661"/>
+ <way id="99677526" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:24Z" user="KonTur" uid="43262">
+  <nd ref="1152471667"/>
+  <nd ref="1152472058"/>
+  <nd ref="1152471938"/>
+  <nd ref="1152471790"/>
+  <nd ref="1152471667"/>
+ </way>
+ <way id="99677557" visible="true" version="2" changeset="69497934" timestamp="2019-04-23T17:24:04Z" user="mini-me" uid="3846961">
+  <nd ref="1152471734"/>
+  <nd ref="1152471890"/>
+  <nd ref="1152472012"/>
+  <nd ref="1152472056"/>
+  <nd ref="6423935119"/>
+  <nd ref="1152471734"/>
+ </way>
+ <way id="99677570" visible="true" version="2" changeset="69497934" timestamp="2019-04-23T17:24:04Z" user="mini-me" uid="3846961">
+  <nd ref="1152471952"/>
+  <nd ref="6423935117"/>
+  <nd ref="1152471807"/>
+  <nd ref="1152471635"/>
+  <nd ref="6423935118"/>
+  <nd ref="1152472022"/>
+  <nd ref="1152471952"/>
+ </way>
+ <way id="99677596" visible="true" version="7" changeset="135252092" timestamp="2023-04-23T08:07:47Z" user="mini-me" uid="3846961">
+  <nd ref="1152471627"/>
+  <nd ref="1152472016"/>
+  <nd ref="3625611733"/>
+  <nd ref="4174873004"/>
+  <nd ref="3625611735"/>
+  <nd ref="1152472010"/>
+  <nd ref="1152472033"/>
+  <nd ref="1152471660"/>
+  <nd ref="1152471680"/>
+  <nd ref="3169340486"/>
+  <nd ref="1152471627"/>
+ </way>
+ <relation id="1426084" visible="true" version="11" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <member type="way" ref="99677596" role="outer"/>
+  <member type="way" ref="99677557" role="inner"/>
+  <member type="way" ref="99677526" role="inner"/>
+  <member type="way" ref="99677570" role="inner"/>
+  <tag k="addr:housenumber" v="68"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Английская набережная"/>
+  <tag k="architect" v="Александр Иванович Кракау"/>
+  <tag k="architect:wikidata" v="Q4237494"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="old_name" v="Дом А. Л. Штиглица (дворец Великого князя Павла Александровича)"/>
+  <tag k="ref:egrokn" v="781410160850006"/>
+  <tag k="start_date" v="1862"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="wikidata" v="Q119132273"/>
+ </relation>
+</osm>

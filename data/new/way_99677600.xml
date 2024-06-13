@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (17035 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1152471569" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:10Z" user="mini-me" uid="3846961" lat="59.9321506" lon="30.2902337"/>
+ <node id="1152471620" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:12Z" user="KonTur" uid="43262" lat="59.9329432" lon="30.2899122"/>
+ <node id="1152471670" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:45Z" user="fserges" uid="368493" lat="59.9326267" lon="30.2902078"/>
+ <node id="1152471678" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:14Z" user="KonTur" uid="43262" lat="59.9328673" lon="30.2895912"/>
+ <node id="1152471699" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:38Z" user="fserges" uid="368493" lat="59.9322670" lon="30.2901225"/>
+ <node id="1152471824" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:17Z" user="KonTur" uid="43262" lat="59.9327338" lon="30.2897076"/>
+ <node id="1152471849" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:48Z" user="fserges" uid="368493" lat="59.9323590" lon="30.2904583"/>
+ <node id="1152471872" visible="true" version="2" changeset="7725944" timestamp="2011-03-31T13:13:38Z" user="fserges" uid="368493" lat="59.9323262" lon="30.2903386"/>
+ <node id="1152471950" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:10Z" user="mini-me" uid="3846961" lat="59.9322454" lon="30.2905710"/>
+ <node id="1152472048" visible="true" version="1" changeset="7283467" timestamp="2011-02-14T07:50:22Z" user="KonTur" uid="43262" lat="59.9327722" lon="30.2899059"/>
+ <node id="3625611723" visible="true" version="1" changeset="32291125" timestamp="2015-06-29T18:24:37Z" user="EIjas" uid="700550" lat="59.9329261" lon="30.2898399">
+  <tag k="addr:housenumber" v="42"/>
+  <tag k="addr:street" v="Английская набережная"/>
+ </node>
+ <node id="4174870236" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:43Z" user="mini-me" uid="3846961" lat="59.9321620" lon="30.2902743">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="4174870237" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:43Z" user="mini-me" uid="3846961" lat="59.9322778" lon="30.2901621"/>
+ <node id="4174870241" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:43Z" user="mini-me" uid="3846961" lat="59.9321715" lon="30.2903081">
+  <tag k="entrance" v="staircase"/>
+ </node>
+ <node id="4174873030" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:58Z" user="mini-me" uid="3846961" lat="59.9328977" lon="30.2897200"/>
+ <node id="4174873031" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:58Z" user="mini-me" uid="3846961" lat="59.9329134" lon="30.2897862"/>
+ <node id="4174873032" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:58Z" user="mini-me" uid="3846961" lat="59.9329079" lon="30.2897103"/>
+ <node id="4174873033" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:58Z" user="mini-me" uid="3846961" lat="59.9329233" lon="30.2897771"/>
+ <node id="4174873034" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:58Z" user="mini-me" uid="3846961" lat="59.9329155" lon="30.2897431">
+  <tag k="entrance" v="main"/>
+ </node>
+ <node id="10833524479" visible="true" version="1" changeset="135252905" timestamp="2023-04-23T08:42:09Z" user="mini-me" uid="3846961" lat="59.9323857" lon="30.2904333"/>
+ <node id="10833524480" visible="true" version="1" changeset="135252905" timestamp="2023-04-23T08:42:09Z" user="mini-me" uid="3846961" lat="59.9324198" lon="30.2904014"/>
+ <way id="99677600" visible="true" version="12" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <nd ref="1152471620"/>
+  <nd ref="1152471670"/>
+  <nd ref="10833524480"/>
+  <nd ref="10833524479"/>
+  <nd ref="1152471849"/>
+  <nd ref="1152471950"/>
+  <nd ref="4174870241"/>
+  <nd ref="4174870236"/>
+  <nd ref="1152471569"/>
+  <nd ref="1152471699"/>
+  <nd ref="4174870237"/>
+  <nd ref="1152471872"/>
+  <nd ref="1152472048"/>
+  <nd ref="1152471824"/>
+  <nd ref="1152471678"/>
+  <nd ref="4174873030"/>
+  <nd ref="4174873032"/>
+  <nd ref="4174873034"/>
+  <nd ref="4174873033"/>
+  <nd ref="4174873031"/>
+  <nd ref="3625611723"/>
+  <nd ref="1152471620"/>
+  <tag k="addr:housenumber" v="43"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Галерная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="old_name" v="Особняк и дом А. В. Полежаева"/>
+  <tag k="start_date" v="C18"/>
+ </way>
+</osm>
