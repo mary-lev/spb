@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2532010 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1133590123" visible="true" version="2" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9308636" lon="30.2867870"/>
+ <node id="1133590167" visible="true" version="3" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9309861" lon="30.2866620"/>
+ <node id="1133590185" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:54Z" user="Anton Khorev" uid="437809" lat="59.9306036" lon="30.2866563"/>
+ <node id="1133590196" visible="true" version="3" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9302211" lon="30.2873885"/>
+ <node id="1133590271" visible="true" version="4" changeset="43169826" timestamp="2016-10-25T18:31:13Z" user="mini-me" uid="3846961" lat="59.9300497" lon="30.2871996"/>
+ <node id="1133590343" visible="true" version="4" changeset="43169826" timestamp="2016-10-25T18:31:13Z" user="mini-me" uid="3846961" lat="59.9301404" lon="30.2874691"/>
+ <node id="1133590425" visible="true" version="3" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9309016" lon="30.2863640"/>
+ <node id="1133590475" visible="true" version="2" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9301780" lon="30.2872117"/>
+ <node id="1133590615" visible="true" version="3" changeset="53054312" timestamp="2017-10-18T22:42:56Z" user="Anton Khorev" uid="437809" lat="59.9307467" lon="30.2865159"/>
+ <node id="1365258158" visible="true" version="5" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9300951" lon="30.2873344">
+  <tag k="barrier" v="gate"/>
+  <tag k="foot" v="yes"/>
+ </node>
+ <node id="1365258159" visible="true" version="2" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9301861" lon="30.2872440"/>
+ <node id="1365258175" visible="true" version="3" changeset="53054312" timestamp="2017-10-18T22:42:58Z" user="Anton Khorev" uid="437809" lat="59.9306706" lon="30.2865906"/>
+ <node id="1365258176" visible="true" version="2" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9306987" lon="30.2867071"/>
+ <node id="1365258183" visible="true" version="2" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9308250" lon="30.2865553"/>
+ <node id="1365258184" visible="true" version="2" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9308400" lon="30.2866117"/>
+ <node id="1365258185" visible="true" version="2" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9308443" lon="30.2867123"/>
+ <node id="1365258186" visible="true" version="2" changeset="53053516" timestamp="2017-10-18T21:47:29Z" user="Anton Khorev" uid="437809" lat="59.9308602" lon="30.2866970"/>
+ <node id="1365258193" visible="true" version="4" changeset="69497934" timestamp="2019-04-23T17:24:03Z" user="mini-me" uid="3846961" lat="59.9309439" lon="30.2865130">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="3627398042" visible="true" version="4" changeset="43169826" timestamp="2016-10-25T18:31:13Z" user="mini-me" uid="3846961" lat="59.9301287" lon="30.2874342">
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:street" v="набережная Адмиралтейского канала"/>
+ </node>
+ <node id="4174398343" visible="true" version="2" changeset="53053516" timestamp="2017-10-18T21:47:30Z" user="Anton Khorev" uid="437809" lat="59.9309749" lon="30.2866231">
+  <tag k="addr:flats" v="1-3"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="1"/>
+ </node>
+ <node id="5175469946" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9304807" lon="30.2868859"/>
+ <node id="5175469947" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9304380" lon="30.2869745"/>
+ <node id="5175469948" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9305210" lon="30.2868457"/>
+ <node id="5175469949" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9307367" lon="30.2866687"/>
+ <node id="5175469950" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:43:00Z" user="Anton Khorev" uid="437809" lat="59.9303243" lon="30.2869302"/>
+ <node id="5175469953" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9305018" lon="30.2868649"/>
+ <node id="5175469956" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9307152" lon="30.2866907">
+  <tag k="addr:flats" v="6-10"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="2"/>
+ </node>
+ <node id="5175469959" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9307302" lon="30.2866479"/>
+ <node id="5175469961" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:43:00Z" user="Anton Khorev" uid="437809" lat="59.9304800" lon="30.2867775"/>
+ <node id="5175469967" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9304888" lon="30.2869224"/>
+ <node id="5175469972" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9305282" lon="30.2868773"/>
+ <node id="5175469973" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:27Z" user="Anton Khorev" uid="437809" lat="59.9304908" lon="30.2868759">
+  <tag k="addr:flats" v="13-15"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="3"/>
+ </node>
+ <node id="5175469976" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:28Z" user="Anton Khorev" uid="437809" lat="59.9303497" lon="30.2870334"/>
+ <node id="5175469977" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:28Z" user="Anton Khorev" uid="437809" lat="59.9304319" lon="30.2869485"/>
+ <node id="5175469978" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:28Z" user="Anton Khorev" uid="437809" lat="59.9303668" lon="30.2870157">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="5175469979" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:28Z" user="Anton Khorev" uid="437809" lat="59.9302147" lon="30.2871738">
+  <tag k="addr:flats" v="18-19;27-30"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="4"/>
+ </node>
+ <node id="5175469983" visible="true" version="1" changeset="53053516" timestamp="2017-10-18T21:47:28Z" user="Anton Khorev" uid="437809" lat="59.9302035" lon="30.2873126"/>
+ <way id="357514905" visible="true" version="6" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <nd ref="1133590425"/>
+  <nd ref="1133590615"/>
+  <nd ref="1365258175"/>
+  <nd ref="1133590185"/>
+  <nd ref="5175469961"/>
+  <nd ref="5175469950"/>
+  <nd ref="1133590271"/>
+  <nd ref="1365258158"/>
+  <nd ref="3627398042"/>
+  <nd ref="1133590343"/>
+  <nd ref="1133590196"/>
+  <nd ref="5175469983"/>
+  <nd ref="1365258159"/>
+  <nd ref="1133590475"/>
+  <nd ref="5175469979"/>
+  <nd ref="5175469976"/>
+  <nd ref="5175469978"/>
+  <nd ref="5175469977"/>
+  <nd ref="5175469947"/>
+  <nd ref="5175469967"/>
+  <nd ref="5175469946"/>
+  <nd ref="5175469973"/>
+  <nd ref="5175469953"/>
+  <nd ref="5175469948"/>
+  <nd ref="5175469972"/>
+  <nd ref="1365258176"/>
+  <nd ref="5175469956"/>
+  <nd ref="5175469949"/>
+  <nd ref="5175469959"/>
+  <nd ref="1365258183"/>
+  <nd ref="1365258184"/>
+  <nd ref="1365258186"/>
+  <nd ref="1365258185"/>
+  <nd ref="1133590123"/>
+  <nd ref="1133590167"/>
+  <nd ref="4174398343"/>
+  <nd ref="1365258193"/>
+  <nd ref="1133590425"/>
+  <tag k="addr:city" v="Санкт-Петербург"/>
+  <tag k="addr:housenumber" v="50"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Галерная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="old_name" v="Дом Г. Радинга (А. Ф. Пистолькорс)"/>
+  <tag k="start_date" v="C18"/>
+ </way>
+</osm>

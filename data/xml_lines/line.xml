@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2054223 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1365166930" visible="true" version="4" changeset="69497059" timestamp="2019-04-23T16:59:24Z" user="mini-me" uid="3846961" lat="59.9304705" lon="30.2845401"/>
+ <node id="1365166937" visible="true" version="3" changeset="34997389" timestamp="2015-10-31T18:09:17Z" user="yuryleb" uid="446083" lat="59.9307211" lon="30.2854317"/>
+ <node id="1365207493" visible="true" version="3" changeset="34997389" timestamp="2015-10-31T18:09:17Z" user="yuryleb" uid="446083" lat="59.9308187" lon="30.2857789"/>
+ <node id="1365258197" visible="true" version="4" changeset="53053516" timestamp="2017-10-18T21:47:30Z" user="Anton Khorev" uid="437809" lat="59.9310054" lon="30.2864434"/>
+ <node id="1365258199" visible="true" version="3" changeset="34997389" timestamp="2015-10-31T18:09:18Z" user="yuryleb" uid="446083" lat="59.9310661" lon="30.2866593"/>
+ <node id="1365258200" visible="true" version="4" changeset="39196930" timestamp="2016-05-09T17:46:16Z" user="mini-me" uid="3846961" lat="59.9311371" lon="30.2869221"/>
+ <node id="1381066875" visible="true" version="4" changeset="39196930" timestamp="2016-05-09T17:46:15Z" user="mini-me" uid="3846961" lat="59.9312454" lon="30.2873135"/>
+ <node id="1381079057" visible="true" version="4" changeset="39196930" timestamp="2016-05-09T17:46:15Z" user="mini-me" uid="3846961" lat="59.9313428" lon="30.2876478"/>
+ <node id="1381079062" visible="true" version="3" changeset="34997389" timestamp="2015-10-31T18:09:15Z" user="yuryleb" uid="446083" lat="59.9315114" lon="30.2882439"/>
+ <node id="1381093246" visible="true" version="3" changeset="34997389" timestamp="2015-10-31T18:09:16Z" user="yuryleb" uid="446083" lat="59.9317757" lon="30.2891845"/>
+ <node id="1381153334" visible="true" version="4" changeset="39196930" timestamp="2016-05-09T17:46:15Z" user="mini-me" uid="3846961" lat="59.9319321" lon="30.2897422"/>
+ <node id="1381218000" visible="true" version="5" changeset="40172927" timestamp="2016-06-21T06:34:34Z" user="Pavel47" uid="472653" lat="59.9322561" lon="30.2908894"/>
+ <node id="1603477081" visible="true" version="4" changeset="135250471" timestamp="2023-04-23T06:40:41Z" user="mini-me" uid="3846961" lat="59.9323897" lon="30.2913773"/>
+ <node id="1603553029" visible="true" version="8" changeset="104703443" timestamp="2021-05-14T19:04:07Z" user="Qpl" uid="12953198" lat="59.9323483" lon="30.2912184">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing:island" v="no"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="tactile_paving" v="no"/>
+ </node>
+ <node id="1892339077" visible="true" version="3" changeset="69497059" timestamp="2019-04-23T16:59:24Z" user="mini-me" uid="3846961" lat="59.9303317" lon="30.2840400"/>
+ <node id="4174870233" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:42Z" user="mini-me" uid="3846961" lat="59.9322362" lon="30.2908178"/>
+ <node id="4174870238" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:43Z" user="mini-me" uid="3846961" lat="59.9321019" lon="30.2903388"/>
+ <node id="4174870247" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:44Z" user="mini-me" uid="3846961" lat="59.9320179" lon="30.2900435"/>
+ <node id="4174870253" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:45Z" user="mini-me" uid="3846961" lat="59.9318993" lon="30.2896254"/>
+ <node id="4174870260" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:46Z" user="mini-me" uid="3846961" lat="59.9318156" lon="30.2893186"/>
+ <node id="4174870266" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:47Z" user="mini-me" uid="3846961" lat="59.9317097" lon="30.2889497"/>
+ <node id="4174870272" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:48Z" user="mini-me" uid="3846961" lat="59.9315946" lon="30.2885402"/>
+ <node id="4174870275" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:48Z" user="mini-me" uid="3846961" lat="59.9315240" lon="30.2882888"/>
+ <node id="4174870278" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:49Z" user="mini-me" uid="3846961" lat="59.9313611" lon="30.2877124"/>
+ <node id="4174872992" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:51Z" user="mini-me" uid="3846961" lat="59.9311818" lon="30.2870816"/>
+ <node id="4174873000" visible="true" version="1" changeset="39202279" timestamp="2016-05-09T21:44:52Z" user="mini-me" uid="3846961" lat="59.9309187" lon="30.2861348"/>
+ <node id="4174873002" visible="true" version="2" changeset="69497934" timestamp="2019-04-23T17:24:03Z" user="mini-me" uid="3846961" lat="59.9308076" lon="30.2857379"/>
+ <node id="4174873008" visible="true" version="2" changeset="135252092" timestamp="2023-04-23T08:07:47Z" user="mini-me" uid="3846961" lat="59.9306250" lon="30.2850882"/>
+ <node id="4174873018" visible="true" version="2" changeset="124447658" timestamp="2022-08-03T18:01:16Z" user="Anton Khorev" uid="437809" lat="59.9305287" lon="30.2847456"/>
+ <node id="7570676975" visible="true" version="1" changeset="85965016" timestamp="2020-05-29T20:18:32Z" user="mini-me" uid="3846961" lat="59.9323261" lon="30.2911423">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="10964252607" visible="true" version="1" changeset="137112389" timestamp="2023-06-08T20:51:49Z" user="Bobropiton" uid="2055718" lat="59.9303587" lon="30.2841378">
+  <tag k="direction" v="backward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="10964252608" visible="true" version="1" changeset="137112389" timestamp="2023-06-08T20:51:49Z" user="Bobropiton" uid="2055718" lat="59.9303653" lon="30.2841619">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <way id="31388544" visible="true" version="51" changeset="141361621" timestamp="2023-09-16T23:16:04Z" user="traveleditor" uid="8726248">
+  <nd ref="1892339077"/>
+  <nd ref="10964252607"/>
+  <nd ref="10964252608"/>
+  <nd ref="1365166930"/>
+  <nd ref="4174873018"/>
+  <nd ref="4174873008"/>
+  <nd ref="1365166937"/>
+  <nd ref="4174873002"/>
+  <nd ref="1365207493"/>
+  <nd ref="4174873000"/>
+  <nd ref="1365258197"/>
+  <nd ref="1365258199"/>
+  <nd ref="1365258200"/>
+  <nd ref="4174872992"/>
+  <nd ref="1381066875"/>
+  <nd ref="1381079057"/>
+  <nd ref="4174870278"/>
+  <nd ref="1381079062"/>
+  <nd ref="4174870275"/>
+  <nd ref="4174870272"/>
+  <nd ref="4174870266"/>
+  <nd ref="1381093246"/>
+  <nd ref="4174870260"/>
+  <nd ref="4174870253"/>
+  <nd ref="1381153334"/>
+  <nd ref="4174870247"/>
+  <nd ref="4174870238"/>
+  <nd ref="4174870233"/>
+  <nd ref="1381218000"/>
+  <nd ref="7570676975"/>
+  <nd ref="1603553029"/>
+  <nd ref="1603477081"/>
+  <tag k="foot" v="no"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="RU:urban"/>
+  <tag k="name" v="Галерная улица"/>
+  <tag k="name:etymology:wikidata" v="Q24936717"/>
+  <tag k="name:ru" v="Галерная улица"/>
+  <tag k="old_name" v="Красная улица"/>
+  <tag k="oneway" v="no"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="wikidata" v="Q4132377"/>
+  <tag k="wikipedia" v="ru:Галерная улица (Санкт-Петербург)"/>
+ </way>
+</osm>

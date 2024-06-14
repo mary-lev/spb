@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2505736 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1133590269" visible="true" version="3" changeset="53054312" timestamp="2017-10-18T22:42:54Z" user="Anton Khorev" uid="437809" lat="59.9310237" lon="30.2873232"/>
+ <node id="1133590342" visible="true" version="3" changeset="53054312" timestamp="2017-10-18T22:42:55Z" user="Anton Khorev" uid="437809" lat="59.9306818" lon="30.2878218"/>
+ <node id="1133590364" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:05Z" user="mini-me" uid="3846961" lat="59.9312385" lon="30.2875529"/>
+ <node id="1133590370" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:06Z" user="mini-me" uid="3846961" lat="59.9311390" lon="30.2872019"/>
+ <node id="1133590525" visible="true" version="3" changeset="53054312" timestamp="2017-10-18T22:42:55Z" user="Anton Khorev" uid="437809" lat="59.9309075" lon="30.2874384"/>
+ <node id="1133590533" visible="true" version="3" changeset="53054312" timestamp="2017-10-18T22:42:56Z" user="Anton Khorev" uid="437809" lat="59.9306511" lon="30.2876901"/>
+ <node id="1133590566" visible="true" version="3" changeset="53054312" timestamp="2017-10-18T22:42:56Z" user="Anton Khorev" uid="437809" lat="59.9308163" lon="30.2876601"/>
+ <node id="1133590608" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:56Z" user="Anton Khorev" uid="437809" lat="59.9308669" lon="30.2878880"/>
+ <node id="1381066854" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:58Z" user="Anton Khorev" uid="437809" lat="59.9307557" lon="30.2877159"/>
+ <node id="1381066855" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:58Z" user="Anton Khorev" uid="437809" lat="59.9307627" lon="30.2877474"/>
+ <node id="1381066856" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:58Z" user="Anton Khorev" uid="437809" lat="59.9308321" lon="30.2877310"/>
+ <node id="1381066857" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9308408" lon="30.2877704"/>
+ <node id="1381066858" visible="true" version="3" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9309506" lon="30.2876186"/>
+ <node id="1381066859" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9309672" lon="30.2876861"/>
+ <node id="1381066860" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9309956" lon="30.2876287"/>
+ <node id="1381066861" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9310015" lon="30.2876545"/>
+ <node id="1381066864" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9310408" lon="30.2873905"/>
+ <node id="1381066865" visible="true" version="3" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9310694" lon="30.2875008"/>
+ <node id="1381066866" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9310624" lon="30.2875673"/>
+ <node id="1381066867" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9310723" lon="30.2876103"/>
+ <node id="1381066868" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9310904" lon="30.2876887"/>
+ <node id="1381066869" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9310919" lon="30.2875923"/>
+ <node id="1381066870" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:06Z" user="mini-me" uid="3846961" lat="59.9311512" lon="30.2872946"/>
+ <node id="1381066871" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:06Z" user="mini-me" uid="3846961" lat="59.9311618" lon="30.2872822"/>
+ <node id="1381066872" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:06Z" user="mini-me" uid="3846961" lat="59.9311769" lon="30.2873905">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1381066873" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:06Z" user="mini-me" uid="3846961" lat="59.9312046" lon="30.2874896"/>
+ <node id="1381066874" visible="true" version="2" changeset="39196930" timestamp="2016-05-09T17:46:06Z" user="mini-me" uid="3846961" lat="59.9312173" lon="30.2874759"/>
+ <node id="1381079041" visible="true" version="2" changeset="53054312" timestamp="2017-10-18T22:42:59Z" user="Anton Khorev" uid="437809" lat="59.9308891" lon="30.2878680"/>
+ <node id="4174203956" visible="true" version="1" changeset="39196930" timestamp="2016-05-09T17:45:16Z" user="mini-me" uid="3846961" lat="59.9311711" lon="30.2873689">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <way id="357750766" visible="true" version="3" changeset="148617517" timestamp="2024-03-14T00:18:37Z" user="mini-me" uid="3846961">
+  <nd ref="1133590370"/>
+  <nd ref="1381066871"/>
+  <nd ref="1381066870"/>
+  <nd ref="4174203956"/>
+  <nd ref="1381066872"/>
+  <nd ref="1381066873"/>
+  <nd ref="1381066874"/>
+  <nd ref="1133590364"/>
+  <nd ref="1381066868"/>
+  <nd ref="1381079041"/>
+  <nd ref="1133590608"/>
+  <nd ref="1381066857"/>
+  <nd ref="1381066856"/>
+  <nd ref="1133590566"/>
+  <nd ref="1381066854"/>
+  <nd ref="1381066855"/>
+  <nd ref="1133590342"/>
+  <nd ref="1133590533"/>
+  <nd ref="1133590525"/>
+  <nd ref="1381066858"/>
+  <nd ref="1381066859"/>
+  <nd ref="1381066861"/>
+  <nd ref="1381066860"/>
+  <nd ref="1381066866"/>
+  <nd ref="1381066867"/>
+  <nd ref="1381066869"/>
+  <nd ref="1381066865"/>
+  <nd ref="1381066864"/>
+  <nd ref="1133590269"/>
+  <nd ref="1133590370"/>
+  <tag k="addr:city" v="Санкт-Петербург"/>
+  <tag k="addr:housenumber" v="44"/>
+  <tag k="addr:postcode" v="190121"/>
+  <tag k="addr:street" v="Галерная улица"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>
