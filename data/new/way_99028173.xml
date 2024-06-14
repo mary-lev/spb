@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (4158762 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1145567087" visible="true" version="3" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9436237" lon="30.3236246"/>
+ <node id="1145619259" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9434927" lon="30.3227838"/>
+ <node id="1145619268" visible="true" version="3" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9437214" lon="30.3234855"/>
+ <node id="1145619275" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9434215" lon="30.3224798"/>
+ <node id="1145619280" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9433978" lon="30.3225120"/>
+ <node id="1145619295" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9436491" lon="30.3232981"/>
+ <node id="1145619307" visible="true" version="3" changeset="81424968" timestamp="2020-02-24T22:02:48Z" user="mini-me" uid="3846961" lat="59.9431756" lon="30.3224898"/>
+ <node id="1145619321" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9436656" lon="30.3232712"/>
+ <node id="1145619327" visible="true" version="3" changeset="148612678" timestamp="2024-03-13T20:51:59Z" user="mini-me" uid="3846961" lat="59.9433165" lon="30.3223081"/>
+ <node id="1145619336" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9434541" lon="30.3225791"/>
+ <node id="7804545579" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9435700" lon="30.3234851">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="7804545580" visible="true" version="2" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9434925" lon="30.3232894">
+  <tag k="addr:flats" v="9-12;16-17"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="1"/>
+ </node>
+ <node id="7804545581" visible="true" version="12" changeset="141361632" timestamp="2023-09-16T23:16:38Z" user="traveleditor" uid="8726248" lat="59.9433808" lon="30.3230077">
+  <tag k="historic" v="memorial"/>
+  <tag k="inscription" v="В этом доме с 1928 по 1931 год жил выдающийся советский полководец, Маршал Советского Союза Михаил Николаевич Тухачевский (1893—1937)"/>
+  <tag k="memorial" v="plaque"/>
+  <tag k="memorial:subject" v="Михаил Николаевич Тухачевский"/>
+  <tag k="name" v="М. Н. Тухачевскому"/>
+  <tag k="subject:wikidata" v="Q142141"/>
+  <tag k="subject:wikipedia" v="ru:Тухачевский, Михаил Николаевич"/>
+ </node>
+ <node id="7804545584" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9433643" lon="30.3229660">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="11115705335" visible="true" version="1" changeset="139898915" timestamp="2023-08-15T06:50:59Z" user="llxll" uid="10348058" lat="59.9434887" lon="30.3227624"/>
+ <way id="99028173" visible="true" version="5" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961">
+  <nd ref="1145619307"/>
+  <nd ref="7804545584"/>
+  <nd ref="7804545581"/>
+  <nd ref="7804545580"/>
+  <nd ref="7804545579"/>
+  <nd ref="1145567087"/>
+  <nd ref="1145619268"/>
+  <nd ref="1145619295"/>
+  <nd ref="1145619321"/>
+  <nd ref="1145619259"/>
+  <nd ref="11115705335"/>
+  <nd ref="1145619336"/>
+  <nd ref="1145619275"/>
+  <nd ref="1145619280"/>
+  <nd ref="1145619327"/>
+  <nd ref="1145619307"/>
+  <tag k="addr:housenumber" v="19"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Миллионная улица"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>

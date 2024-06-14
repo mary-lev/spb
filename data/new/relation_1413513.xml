@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (803104 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1133627497" visible="true" version="4" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9457056" lon="30.3288231"/>
+ <node id="1133627498" visible="true" version="5" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9460696" lon="30.3289900"/>
+ <node id="1133627500" visible="true" version="5" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9459081" lon="30.3289019"/>
+ <node id="1133627502" visible="true" version="4" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9456534" lon="30.3281979"/>
+ <node id="1133627506" visible="true" version="4" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9456109" lon="30.3282352"/>
+ <node id="1133627507" visible="true" version="5" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9457249" lon="30.3280671"/>
+ <node id="1133627508" visible="true" version="4" changeset="14366507" timestamp="2012-12-22T14:11:31Z" user="Danidin9" uid="395588" lat="59.9454474" lon="30.3295387"/>
+ <node id="1133627509" visible="true" version="5" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9453640" lon="30.3284391"/>
+ <node id="1133627510" visible="true" version="4" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9457039" lon="30.3286590"/>
+ <node id="1133627511" visible="true" version="6" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9457881" lon="30.3277242"/>
+ <node id="1133627513" visible="true" version="4" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9454790" lon="30.3283385"/>
+ <node id="1133627514" visible="true" version="4" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9458265" lon="30.3287173"/>
+ <node id="1133627515" visible="true" version="4" changeset="14366507" timestamp="2012-12-22T14:11:31Z" user="Danidin9" uid="395588" lat="59.9451432" lon="30.3282405"/>
+ <node id="1133627516" visible="true" version="5" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9456409" lon="30.3281406"/>
+ <node id="1133627517" visible="true" version="5" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9455376" lon="30.3292305"/>
+ <node id="1133627518" visible="true" version="4" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9458736" lon="30.3289320"/>
+ <node id="1133627521" visible="true" version="4" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9455742" lon="30.3287724"/>
+ <node id="8707449379" visible="true" version="1" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9453190" lon="30.3289905">
+  <tag k="access" v="private"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="8707449380" visible="true" version="11" changeset="141361632" timestamp="2023-09-16T23:16:38Z" user="traveleditor" uid="8726248" lat="59.9452711" lon="30.3287865">
+  <tag k="historic" v="memorial"/>
+  <tag k="inscription" v="В этом здании с 30 июня по 19 июля 1941 года формировалась 4-я дивизия Народного ополчения, участвовавшая в обороне Ленинграда"/>
+  <tag k="memorial" v="plaque"/>
+  <tag k="name" v="4-й дивизии Народного ополчения"/>
+ </node>
+ <node id="8707449381" visible="true" version="1" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9457536" lon="30.3290416"/>
+ <node id="8707449388" visible="true" version="1" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9452988" lon="30.3289045">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="8707449390" visible="true" version="1" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9454388" lon="30.3287800"/>
+ <node id="8707449392" visible="true" version="1" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961" lat="59.9454583" lon="30.3295291">
+  <tag k="amenity" v="clock"/>
+  <tag k="display" v="analog"/>
+  <tag k="faces" v="2"/>
+  <tag k="support" v="wall_mounted"/>
+ </node>
+ <way id="98583459" visible="true" version="4" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961">
+  <nd ref="1133627511"/>
+  <nd ref="1133627498"/>
+  <nd ref="8707449392"/>
+  <nd ref="1133627508"/>
+  <nd ref="8707449379"/>
+  <nd ref="8707449388"/>
+  <nd ref="8707449380"/>
+  <nd ref="1133627515"/>
+  <nd ref="1133627511"/>
+ </way>
+ <way id="367205374" visible="true" version="2" changeset="104272569" timestamp="2021-05-06T20:00:45Z" user="mini-me" uid="3846961">
+  <nd ref="1133627509"/>
+  <nd ref="8707449390"/>
+  <nd ref="1133627517"/>
+  <nd ref="8707449381"/>
+  <nd ref="1133627497"/>
+  <nd ref="1133627514"/>
+  <nd ref="1133627518"/>
+  <nd ref="1133627500"/>
+  <nd ref="1133627507"/>
+  <nd ref="1133627516"/>
+  <nd ref="1133627502"/>
+  <nd ref="1133627506"/>
+  <nd ref="1133627510"/>
+  <nd ref="1133627521"/>
+  <nd ref="1133627513"/>
+  <nd ref="1133627509"/>
+ </way>
+ <relation id="1413513" visible="true" version="18" changeset="149384737" timestamp="2024-03-31T10:57:25Z" user="OSM FTW" uid="17746333">
+  <member type="way" ref="98583459" role="outer"/>
+  <member type="way" ref="367205374" role="inner"/>
+  <tag k="addr:housenumber" v="5"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Миллионная улица"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="name" v="БЦ &quot;Сенатор&quot;"/>
+  <tag k="old_name" v="Северо-Западный государственный заочный технический университет"/>
+  <tag k="old_name:de" v="Nordwestliche Staatliche Technische Universität"/>
+  <tag k="old_name:en" v="North-West State Technical University"/>
+  <tag k="old_name:fr" v="Université technique du Nord-Ouest"/>
+  <tag k="old_name:ru" v="Северо-Западный государственный заочный технический университет"/>
+  <tag k="old_name:zh" v="西北部国家技术大学"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="was:amenity" v="university"/>
+  <tag k="website" v="https://senator.spb.ru"/>
+ </relation>
+</osm>

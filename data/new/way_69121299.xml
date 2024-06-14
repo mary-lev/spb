@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (437201 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="829224029" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9429450" lon="30.3212778"/>
+ <node id="829224055" visible="true" version="5" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428125" lon="30.3211609"/>
+ <node id="829224104" visible="true" version="3" changeset="7331193" timestamp="2011-02-19T12:25:11Z" user="Ordin" uid="386508" lat="59.9430330" lon="30.3207201"/>
+ <node id="829224107" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9430906" lon="30.3211092"/>
+ <node id="829224135" visible="true" version="5" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9427760" lon="30.3215098"/>
+ <node id="829224309" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9430933" lon="30.3209179"/>
+ <node id="829224332" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428674" lon="30.3213899"/>
+ <node id="1160058896" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428008" lon="30.3209957"/>
+ <node id="1160058905" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428462" lon="30.3211228"/>
+ <node id="1160058925" visible="true" version="3" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428980" lon="30.3211383"/>
+ <node id="1160112661" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:13Z" user="Ordin" uid="386508" lat="59.9432171" lon="30.3207980"/>
+ <node id="1160112685" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:04Z" user="Ordin" uid="386508" lat="59.9431242" lon="30.3205391"/>
+ <node id="1160112707" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:34Z" user="Ordin" uid="386508" lat="59.9431038" lon="30.3204680"/>
+ <node id="1160112714" visible="true" version="3" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9432274" lon="30.3209547"/>
+ <node id="1160112752" visible="true" version="3" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9426016" lon="30.3210702"/>
+ <node id="1160112757" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:54Z" user="Ordin" uid="386508" lat="59.9431646" lon="30.3205964"/>
+ <node id="1160112765" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:41Z" user="Ordin" uid="386508" lat="59.9431440" lon="30.3206189"/>
+ <node id="1160112778" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:00Z" user="Ordin" uid="386508" lat="59.9431902" lon="30.3208296"/>
+ <node id="7804519440" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428874" lon="30.3213645"/>
+ <node id="7804519474" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9426892" lon="30.3212909">
+  <tag k="access" v="private"/>
+  <tag k="entrance" v="staircase"/>
+ </node>
+ <node id="7804519475" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9426179" lon="30.3211112">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="7804519476" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9427298" lon="30.3213933">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="7804519478" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9426486" lon="30.3211887">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <way id="69121299" visible="true" version="6" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961">
+  <nd ref="829224332"/>
+  <nd ref="829224135"/>
+  <nd ref="7804519476"/>
+  <nd ref="7804519474"/>
+  <nd ref="7804519478"/>
+  <nd ref="7804519475"/>
+  <nd ref="1160112752"/>
+  <nd ref="1160112707"/>
+  <nd ref="1160112685"/>
+  <nd ref="1160112765"/>
+  <nd ref="1160112757"/>
+  <nd ref="1160112661"/>
+  <nd ref="1160112778"/>
+  <nd ref="1160112714"/>
+  <nd ref="829224107"/>
+  <nd ref="829224029"/>
+  <nd ref="1160058925"/>
+  <nd ref="829224309"/>
+  <nd ref="829224104"/>
+  <nd ref="1160058896"/>
+  <nd ref="1160058905"/>
+  <nd ref="829224055"/>
+  <nd ref="7804519440"/>
+  <nd ref="829224332"/>
+  <tag k="addr:city" v="Санкт-Петербург"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:housenumber" v="25"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Миллионная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="6"/>
+ </way>
+</osm>

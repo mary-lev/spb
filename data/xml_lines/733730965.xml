@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2131521 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="332675" visible="true" version="17" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9442925" lon="30.3256725"/>
+ <node id="6872011130" visible="true" version="2" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9445591" lon="30.3262535">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="6872011131" visible="true" version="2" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9445954" lon="30.3263657">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="6872011136" visible="true" version="2" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9443618" lon="30.3257324"/>
+ <node id="7804545545" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9444054" lon="30.3258484"/>
+ <way id="733730965" visible="true" version="11" changeset="141361687" timestamp="2023-09-16T23:19:39Z" user="traveleditor" uid="8726248">
+  <nd ref="6872011131"/>
+  <nd ref="6872011130"/>
+  <nd ref="7804545545"/>
+  <nd ref="6872011136"/>
+  <nd ref="332675"/>
+  <tag k="foot" v="no"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="RU:urban"/>
+  <tag k="name" v="Миллионная улица"/>
+  <tag k="name:fr" v="Rue Millionnaïa"/>
+  <tag k="name:ru" v="Миллионная улица"/>
+  <tag k="old_name" v="Большая Миллiонная улица"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="postal_code" v="191186"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="wikidata" v="Q3449179"/>
+  <tag k="wikipedia" v="ru:Миллионная улица (Санкт-Петербург)"/>
+ </way>
+</osm>

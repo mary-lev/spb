@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (3315427 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="829224036" visible="true" version="3" changeset="7331193" timestamp="2011-02-19T12:24:56Z" user="Ordin" uid="386508" lat="59.9425790" lon="30.3189280"/>
+ <node id="829224064" visible="true" version="15" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9420401" lon="30.3197117"/>
+ <node id="829224102" visible="true" version="2" changeset="7331086" timestamp="2011-02-19T12:09:06Z" user="Ordin" uid="386508" lat="59.9428855" lon="30.3186639"/>
+ <node id="829224161" visible="true" version="3" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9426975" lon="30.3189248"/>
+ <node id="829224181" visible="true" version="3" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9427582" lon="30.3191102"/>
+ <node id="829224208" visible="true" version="5" changeset="7331353" timestamp="2011-02-19T12:42:36Z" user="Ordin" uid="386508" lat="59.9429958" lon="30.3182513"/>
+ <node id="829224257" visible="true" version="2" changeset="7331086" timestamp="2011-02-19T12:09:07Z" user="Ordin" uid="386508" lat="59.9429583" lon="30.3188821"/>
+ <node id="1161122301" visible="true" version="3" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9421521" lon="30.3199723"/>
+ <node id="1161122316" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:41Z" user="Ordin" uid="386508" lat="59.9431865" lon="30.3188110"/>
+ <node id="1161122319" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:54Z" user="Ordin" uid="386508" lat="59.9426712" lon="30.3193763"/>
+ <node id="1161181546" visible="true" version="2" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9423403" lon="30.3196022"/>
+ <node id="1161181548" visible="true" version="2" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9424508" lon="30.3193076"/>
+ <node id="1161181551" visible="true" version="2" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9424032" lon="30.3195110"/>
+ <node id="1161181573" visible="true" version="2" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9426459" lon="30.3192310"/>
+ <node id="1161181576" visible="true" version="2" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9425885" lon="30.3190703"/>
+ <node id="1161181600" visible="true" version="2" changeset="7331353" timestamp="2011-02-19T12:42:36Z" user="Ordin" uid="386508" lat="59.9426590" lon="30.3187273"/>
+ <node id="1161181603" visible="true" version="2" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9422355" lon="30.3196935"/>
+ <node id="1161181605" visible="true" version="2" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9423228" lon="30.3195519"/>
+ <node id="5307763656" visible="true" version="1" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9426268" lon="30.3188458"/>
+ <node id="5307763657" visible="true" version="1" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9426098" lon="30.3187955"/>
+ <node id="5307763658" visible="true" version="1" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9424896" lon="30.3194200"/>
+ <node id="5307763659" visible="true" version="1" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9424925" lon="30.3192476"/>
+ <node id="5307763660" visible="true" version="1" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9424834" lon="30.3192213"/>
+ <node id="5307763661" visible="true" version="1" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9422057" lon="30.3196089"/>
+ <node id="5307763662" visible="true" version="1" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809" lat="59.9423588" lon="30.3193769"/>
+ <node id="5900730040" visible="true" version="1" changeset="62505575" timestamp="2018-09-12T01:17:47Z" user="Anton Khorev" uid="437809" lat="59.9431689" lon="30.3187595">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="5900730041" visible="true" version="14" changeset="141361632" timestamp="2023-09-16T23:16:38Z" user="traveleditor" uid="8726248" lat="59.9430630" lon="30.3184485">
+  <tag k="historic" v="memorial"/>
+  <tag k="inscription" v="В этом доме с 1933 по 1955 год жил выдающийся советский историк Евгений Викторович Тарле"/>
+  <tag k="memorial" v="plaque"/>
+  <tag k="memorial:subject" v="Евгений Викторович Тарле"/>
+  <tag k="name" v="Е. В. Тарле"/>
+  <tag k="subject:wikidata" v="Q1398528"/>
+  <tag k="subject:wikipedia" v="ru:Тарле, Евгений Викторович"/>
+ </node>
+ <node id="7804519459" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9420542" lon="30.3197445">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="7804519460" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9420778" lon="30.3197996">
+  <tag k="access" v="private"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <way id="69121317" visible="true" version="1" changeset="5289864" timestamp="2010-07-22T18:30:24Z" user="guggis" uid="40577">
+  <nd ref="829224102"/>
+  <nd ref="829224257"/>
+  <nd ref="829224181"/>
+  <nd ref="829224161"/>
+  <nd ref="829224102"/>
+ </way>
+ <way id="100443270" visible="true" version="8" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961">
+  <nd ref="829224208"/>
+  <nd ref="5900730041"/>
+  <nd ref="5900730040"/>
+  <nd ref="1161122316"/>
+  <nd ref="1161122319"/>
+  <nd ref="1161122301"/>
+  <nd ref="7804519460"/>
+  <nd ref="7804519459"/>
+  <nd ref="829224064"/>
+  <nd ref="829224036"/>
+  <nd ref="5307763656"/>
+  <nd ref="5307763657"/>
+  <nd ref="1161181600"/>
+ </way>
+ <way id="100444243" visible="true" version="2" changeset="54973572" timestamp="2017-12-28T05:26:43Z" user="Anton Khorev" uid="437809">
+  <nd ref="1161181576"/>
+  <nd ref="5307763660"/>
+  <nd ref="5307763659"/>
+  <nd ref="1161181548"/>
+  <nd ref="5307763658"/>
+  <nd ref="1161181573"/>
+  <nd ref="1161181576"/>
+ </way>
+ <way id="549464445" visible="true" version="1" changeset="54973572" timestamp="2017-12-28T05:26:42Z" user="Anton Khorev" uid="437809">
+  <nd ref="5307763661"/>
+  <nd ref="1161181603"/>
+  <nd ref="1161181605"/>
+  <nd ref="1161181546"/>
+  <nd ref="1161181551"/>
+  <nd ref="5307763662"/>
+  <nd ref="5307763661"/>
+ </way>
+ <way id="583695104" visible="true" version="1" changeset="58439589" timestamp="2018-04-26T11:10:11Z" user="Anton Khorev" uid="437809">
+  <nd ref="1161181600"/>
+  <nd ref="829224208"/>
+ </way>
+ <relation id="1435535" visible="true" version="14" changeset="148612678" timestamp="2024-03-13T20:51:59Z" user="mini-me" uid="3846961">
+  <member type="way" ref="100443270" role="outer"/>
+  <member type="way" ref="583695104" role="outer"/>
+  <member type="way" ref="69121317" role="inner"/>
+  <member type="way" ref="100444243" role="inner"/>
+  <member type="way" ref="549464445" role="inner"/>
+  <tag k="addr:housenumber" v="30"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Дворцовая набережная"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Запасной дом Зимнего дворца"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="wikidata" v="Q4186635"/>
+ </relation>
+</osm>

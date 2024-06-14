@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (803104 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1145567099" visible="true" version="5" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9443701" lon="30.3227146"/>
+ <node id="1145567133" visible="true" version="3" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9439977" lon="30.3231281"/>
+ <node id="1145619238" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9434773" lon="30.3225562"/>
+ <node id="1145619239" visible="true" version="3" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9439318" lon="30.3223220"/>
+ <node id="1145619242" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9437217" lon="30.3221489"/>
+ <node id="1145619246" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9439557" lon="30.3223857"/>
+ <node id="1145619262" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9439150" lon="30.3221490"/>
+ <node id="1145619265" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9435660" lon="30.3218279"/>
+ <node id="1145619266" visible="true" version="5" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9439849" lon="30.3213809"/>
+ <node id="1145619271" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9435687" lon="30.3218247"/>
+ <node id="1145619273" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9436608" lon="30.3223469"/>
+ <node id="1145619278" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9437887" lon="30.3216040"/>
+ <node id="1145619285" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9436073" lon="30.3229379"/>
+ <node id="1145619290" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9440670" lon="30.3224147"/>
+ <node id="1145619292" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9437595" lon="30.3218298"/>
+ <node id="1145619293" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9439282" lon="30.3219143"/>
+ <node id="1145619294" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9435670" lon="30.3224522"/>
+ <node id="1145619296" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9440572" lon="30.3228474"/>
+ <node id="1145619297" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9438474" lon="30.3226616"/>
+ <node id="1145619299" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9438780" lon="30.3227652"/>
+ <node id="1145619300" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9437508" lon="30.3222479"/>
+ <node id="1145619301" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9439950" lon="30.3224205"/>
+ <node id="1145619310" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9439056" lon="30.3229771"/>
+ <node id="1145619311" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9439259" lon="30.3220749"/>
+ <node id="1145619314" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9439179" lon="30.3222347"/>
+ <node id="1145619317" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9442045" lon="30.3228949"/>
+ <node id="1145619323" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9434189" lon="30.3223594"/>
+ <node id="1145619325" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9441013" lon="30.3230062"/>
+ <node id="1145619326" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9437134" lon="30.3216640"/>
+ <node id="1145619330" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9440328" lon="30.3224249"/>
+ <node id="1145619331" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9440938" lon="30.3225098"/>
+ <node id="1145619332" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9436778" lon="30.3228492"/>
+ <node id="1145619337" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9439528" lon="30.3220052"/>
+ <node id="1145619340" visible="true" version="3" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9439646" lon="30.3231673"/>
+ <node id="1145619342" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9438298" lon="30.3217518"/>
+ <node id="1145619349" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9441597" lon="30.3227337"/>
+ <node id="1145619350" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9437754" lon="30.3227435"/>
+ <node id="1145619354" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9437003" lon="30.3232302"/>
+ <node id="5900778497" visible="true" version="1" changeset="62505995" timestamp="2018-09-12T01:56:27Z" user="Anton Khorev" uid="437809" lat="59.9436458" lon="30.3220953"/>
+ <node id="5900827773" visible="true" version="14" changeset="141361632" timestamp="2023-09-16T23:16:38Z" user="traveleditor" uid="8726248" lat="59.9441238" lon="30.3218617">
+  <tag k="historic" v="memorial"/>
+  <tag k="inscription" v="В этом доме с 1950 по 1976 год работал выдающийся советский ученый-электротехник, Герой Социалистического Труда, академик Михаил Полиевктович Костенко"/>
+  <tag k="memorial" v="plaque"/>
+  <tag k="memorial:subject" v="Михаил Полиевктович Костенко"/>
+  <tag k="name" v="М. П. Костенко"/>
+  <tag k="subject:wikidata" v="Q4235321"/>
+  <tag k="subject:wikipedia" v="ru:Костенко, Михаил Полиевктович"/>
+ </node>
+ <way id="99028177" visible="true" version="19" changeset="148612678" timestamp="2024-03-13T20:51:59Z" user="mini-me" uid="3846961">
+  <nd ref="1145619299"/>
+  <nd ref="1145619331"/>
+  <nd ref="1145619290"/>
+  <nd ref="1145619330"/>
+  <nd ref="1145619301"/>
+  <nd ref="1145619246"/>
+  <nd ref="1145619239"/>
+  <nd ref="1145619314"/>
+  <nd ref="1145619262"/>
+  <nd ref="1145619311"/>
+  <nd ref="1145619337"/>
+  <nd ref="1145619293"/>
+  <nd ref="1145619242"/>
+  <nd ref="1145619300"/>
+  <nd ref="1145619273"/>
+  <nd ref="1145619350"/>
+  <nd ref="1145619297"/>
+  <nd ref="1145619299"/>
+ </way>
+ <way id="1262322401" visible="true" version="1" changeset="148612678" timestamp="2024-03-13T20:51:59Z" user="mini-me" uid="3846961">
+  <nd ref="1145619310"/>
+  <nd ref="1145619354"/>
+  <nd ref="1145619285"/>
+  <nd ref="1145619332"/>
+  <nd ref="1145619294"/>
+  <nd ref="1145619238"/>
+  <nd ref="1145619323"/>
+  <nd ref="5900778497"/>
+  <nd ref="1145619265"/>
+  <nd ref="1145619271"/>
+  <nd ref="1145619326"/>
+  <nd ref="1145619292"/>
+  <nd ref="1145619342"/>
+  <nd ref="1145619278"/>
+  <nd ref="1145619266"/>
+  <nd ref="5900827773"/>
+  <nd ref="1145567099"/>
+  <nd ref="1145619317"/>
+  <nd ref="1145619349"/>
+  <nd ref="1145619296"/>
+  <nd ref="1145619325"/>
+  <nd ref="1145567133"/>
+  <nd ref="1145619340"/>
+  <nd ref="1145619310"/>
+ </way>
+ <relation id="17343294" visible="true" version="1" changeset="148612678" timestamp="2024-03-13T20:51:59Z" user="mini-me" uid="3846961">
+  <member type="way" ref="99028177" role="inner"/>
+  <member type="way" ref="1262322401" role="outer"/>
+  <tag k="addr:housenumber" v="18"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Дворцовая набережная"/>
+  <tag k="architect" v="Андрей Иванович Штакеншнейдер"/>
+  <tag k="architect:wikidata" v="Q426924"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="castle_type" v="palace"/>
+  <tag k="historic" v="castle"/>
+  <tag k="name" v="Ново-Михайловский дворец"/>
+  <tag k="start_date" v="1861"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="wikidata" v="Q3361196"/>
+  <tag k="wikipedia" v="ru:Ново-Михайловский дворец"/>
+ </relation>
+</osm>

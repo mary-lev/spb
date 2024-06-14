@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (1537343 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="226856" visible="true" version="25" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9415223" lon="30.3188228"/>
+ <node id="2144310379" visible="true" version="15" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428853" lon="30.3221042">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="3798027422" visible="true" version="18" changeset="123444518" timestamp="2022-07-10T19:23:43Z" user="Anton Khorev" uid="437809" lat="59.9428307" lon="30.3219705">
+  <tag k="button_operated" v="no"/>
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="no"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="tactile_paving" v="yes"/>
+  <tag k="traffic_signals:sound" v="no"/>
+ </node>
+ <node id="7804519454" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9417514" lon="30.3193533"/>
+ <node id="7804519458" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9419774" lon="30.3198748"/>
+ <node id="7804519465" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9421687" lon="30.3203159"/>
+ <node id="7804519470" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9423906" lon="30.3208676"/>
+ <node id="7804519477" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9425696" lon="30.3213134"/>
+ <node id="7806126263" visible="true" version="1" changeset="89294193" timestamp="2020-08-12T09:31:58Z" user="mini-me" uid="3846961" lat="59.9422994" lon="30.3206409"/>
+ <node id="7911770393" visible="true" version="2" changeset="135321304" timestamp="2023-04-24T22:57:22Z" user="mini-me" uid="3846961" lat="59.9415127" lon="30.3187994"/>
+ <way id="31401234" visible="true" version="43" changeset="141361621" timestamp="2023-09-16T23:16:04Z" user="traveleditor" uid="8726248">
+  <nd ref="7911770393"/>
+  <nd ref="226856"/>
+  <nd ref="7804519454"/>
+  <nd ref="7804519458"/>
+  <nd ref="7804519465"/>
+  <nd ref="7806126263"/>
+  <nd ref="7804519470"/>
+  <nd ref="7804519477"/>
+  <nd ref="3798027422"/>
+  <nd ref="2144310379"/>
+  <tag k="foot" v="no"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="RU:urban"/>
+  <tag k="name" v="Миллионная улица"/>
+  <tag k="name:fr" v="Rue Millionnaïa"/>
+  <tag k="name:ru" v="Миллионная улица"/>
+  <tag k="old_name" v="Большая Миллiонная улица"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="wikidata" v="Q3449179"/>
+  <tag k="wikipedia" v="ru:Миллионная улица (Санкт-Петербург)"/>
+ </way>
+</osm>

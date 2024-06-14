@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (437107 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="223707" visible="true" version="28" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9421782" lon="30.3228927"/>
+ <node id="2144310379" visible="true" version="15" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428853" lon="30.3221042">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="3757652613" visible="true" version="18" changeset="123444524" timestamp="2022-07-10T19:23:48Z" user="Anton Khorev" uid="437809" lat="59.9422226" lon="30.3228045">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing:island" v="no"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="tactile_paving" v="no"/>
+ </node>
+ <node id="3798027424" visible="true" version="18" changeset="123444518" timestamp="2022-07-10T19:23:45Z" user="Anton Khorev" uid="437809" lat="59.9427903" lon="30.3221674">
+  <tag k="button_operated" v="no"/>
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="no"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="tactile_paving" v="yes"/>
+  <tag k="traffic_signals:sound" v="no"/>
+ </node>
+ <node id="7241038026" visible="true" version="2" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9427676" lon="30.3221917">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="11726012262" visible="true" version="1" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961" lat="59.9424853" lon="30.3225091"/>
+ <node id="11726038871" visible="true" version="1" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961" lat="59.9425385" lon="30.3224493"/>
+ <way id="9873957" visible="true" version="37" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961">
+  <nd ref="223707"/>
+  <nd ref="3757652613"/>
+  <nd ref="11726012262"/>
+  <nd ref="11726038871"/>
+  <nd ref="7241038026"/>
+  <nd ref="3798027424"/>
+  <nd ref="2144310379"/>
+  <tag k="foot" v="no"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="RU:urban"/>
+  <tag k="name" v="Мошков переулок"/>
+  <tag k="parking:both" v="lane"/>
+  <tag k="parking:both:fee" v="no"/>
+  <tag k="parking:both:orientation" v="parallel"/>
+  <tag k="smoothness" v="excellent"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="wikidata" v="Q4305306"/>
+  <tag k="wikipedia" v="ru:Мошков переулок"/>
+ </way>
+</osm>

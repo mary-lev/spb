@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (225873 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1144599135" visible="true" version="3" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9439182" lon="30.3243914"/>
+ <node id="1144629832" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9439323" lon="30.3240772"/>
+ <node id="1144629840" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9438448" lon="30.3242012"/>
+ <node id="1144629853" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9440231" lon="30.3242428"/>
+ <node id="1144629884" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9439506" lon="30.3240512"/>
+ <node id="7804545563" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9438696" lon="30.3242654">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="7804545566" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9438830" lon="30.3243001">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <way id="98945339" visible="true" version="4" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961">
+  <nd ref="1144629884"/>
+  <nd ref="1144629832"/>
+  <nd ref="1144629840"/>
+  <nd ref="7804545563"/>
+  <nd ref="7804545566"/>
+  <nd ref="1144599135"/>
+  <nd ref="1144629853"/>
+  <nd ref="1144629884"/>
+  <tag k="addr:housenumber" v="13"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Миллионная улица"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>

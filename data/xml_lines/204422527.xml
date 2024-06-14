@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2514569 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="332675" visible="true" version="17" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9442925" lon="30.3256725"/>
+ <node id="2144310379" visible="true" version="15" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428853" lon="30.3221042">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2292494024" visible="true" version="16" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961" lat="59.9442445" lon="30.3255443">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing:island" v="no"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="3798027423" visible="true" version="9" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961" lat="59.9429520" lon="30.3222668">
+  <tag k="button_operated" v="no"/>
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="crossing:island" v="no"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="tactile_paving" v="yes"/>
+  <tag k="traffic_signals:sound" v="no"/>
+ </node>
+ <node id="7804545552" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9442133" lon="30.3254652"/>
+ <node id="7804545557" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9440033" lon="30.3249326"/>
+ <node id="7804545565" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9438043" lon="30.3244280"/>
+ <node id="7804545569" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9436794" lon="30.3241112"/>
+ <node id="7804545573" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9436064" lon="30.3239261"/>
+ <node id="7804545578" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9434857" lon="30.3236200"/>
+ <node id="7804545583" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9432805" lon="30.3230996"/>
+ <node id="8416039637" visible="true" version="1" changeset="99129863" timestamp="2021-02-11T19:04:46Z" user="mini-me" uid="3846961" lat="59.9433867" lon="30.3233688"/>
+ <node id="11726038891" visible="true" version="1" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961" lat="59.9438147" lon="30.3244544"/>
+ <way id="204422527" visible="true" version="26" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961">
+  <nd ref="2144310379"/>
+  <nd ref="3798027423"/>
+  <nd ref="7804545583"/>
+  <nd ref="8416039637"/>
+  <nd ref="7804545578"/>
+  <nd ref="7804545573"/>
+  <nd ref="7804545569"/>
+  <nd ref="7804545565"/>
+  <nd ref="11726038891"/>
+  <nd ref="7804545557"/>
+  <nd ref="7804545552"/>
+  <nd ref="2292494024"/>
+  <nd ref="332675"/>
+  <tag k="foot" v="no"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="RU:urban"/>
+  <tag k="name" v="Миллионная улица"/>
+  <tag k="name:fr" v="Rue Millionnaïa"/>
+  <tag k="name:ru" v="Миллионная улица"/>
+  <tag k="old_name" v="Большая Миллiонная улица"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="wikidata" v="Q3449179"/>
+  <tag k="wikipedia" v="ru:Миллионная улица (Санкт-Петербург)"/>
+ </way>
+</osm>

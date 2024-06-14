@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2054245 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1144431012" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:28Z" user="Anton Khorev" uid="437809" lat="59.9443401" lon="30.3254799"/>
+ <node id="1144552670" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:28Z" user="Anton Khorev" uid="437809" lat="59.9444027" lon="30.3249835"/>
+ <node id="1144552690" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:28Z" user="Anton Khorev" uid="437809" lat="59.9444635" lon="30.3251527"/>
+ <node id="1144552715" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:28Z" user="Anton Khorev" uid="437809" lat="59.9443490" lon="30.3250653"/>
+ <node id="1144552720" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:28Z" user="Anton Khorev" uid="437809" lat="59.9445579" lon="30.3252252"/>
+ <node id="1144552732" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:28Z" user="Anton Khorev" uid="437809" lat="59.9444082" lon="30.3252368"/>
+ <node id="1144552735" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9442366" lon="30.3252176"/>
+ <node id="1144552737" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9444570" lon="30.3249048"/>
+ <node id="6562941779" visible="true" version="2" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9443578" lon="30.3254595"/>
+ <node id="7804545550" visible="true" version="2" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9443071" lon="30.3253963">
+  <tag k="addr:flats" v="2-3;5-8"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="1"/>
+ </node>
+ <node id="7804545553" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9442894" lon="30.3253513">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="11964137545" visible="true" version="1" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195" lat="59.9443938" lon="30.3251951"/>
+ <way id="98940061" visible="true" version="9" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195">
+  <nd ref="1144552737"/>
+  <nd ref="1144552670"/>
+  <nd ref="1144552690"/>
+  <nd ref="1144552732"/>
+  <nd ref="11964137545"/>
+  <nd ref="1144552715"/>
+  <nd ref="1144552735"/>
+  <nd ref="7804545553"/>
+  <nd ref="7804545550"/>
+  <nd ref="1144431012"/>
+  <nd ref="6562941779"/>
+  <nd ref="1144552720"/>
+  <nd ref="1144552737"/>
+  <tag k="addr:housenumber" v="9"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Миллионная улица"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2054222 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="829224172" visible="true" version="4" changeset="7331193" timestamp="2011-02-19T12:25:09Z" user="Ordin" uid="386508" lat="59.9427914" lon="30.3198960"/>
+ <node id="829224319" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9423389" lon="30.3204142"/>
+ <node id="1160112668" visible="true" version="3" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9425693" lon="30.3209564"/>
+ <node id="1160112686" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9425272" lon="30.3208494"/>
+ <node id="1160112706" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9425623" lon="30.3209679"/>
+ <node id="1160112707" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:34Z" user="Ordin" uid="386508" lat="59.9431038" lon="30.3204680"/>
+ <node id="1160112727" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9424282" lon="30.3205939"/>
+ <node id="1160112729" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9423782" lon="30.3205052"/>
+ <node id="1160112734" visible="true" version="3" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9423877" lon="30.3204917"/>
+ <node id="1160112752" visible="true" version="3" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9426016" lon="30.3210702"/>
+ <node id="1160112753" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9425194" lon="30.3208606"/>
+ <node id="1160112763" visible="true" version="4" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9424195" lon="30.3206069"/>
+ <node id="1161079246" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:38Z" user="Ordin" uid="386508" lat="59.9425330" lon="30.3203210"/>
+ <node id="1161079248" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:14Z" user="Ordin" uid="386508" lat="59.9424796" lon="30.3203188"/>
+ <node id="1161079252" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:03Z" user="Ordin" uid="386508" lat="59.9427114" lon="30.3208346"/>
+ <node id="1161079264" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:42Z" user="Ordin" uid="386508" lat="59.9428691" lon="30.3199280"/>
+ <node id="1161079298" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:50Z" user="Ordin" uid="386508" lat="59.9426928" lon="30.3208595"/>
+ <node id="1161079308" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:11Z" user="Ordin" uid="386508" lat="59.9428550" lon="30.3198787"/>
+ <node id="1161079312" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:01Z" user="Ordin" uid="386508" lat="59.9426731" lon="30.3208095"/>
+ <node id="1161079319" visible="true" version="3" changeset="7331193" timestamp="2011-02-19T12:25:08Z" user="Ordin" uid="386508" lat="59.9428018" lon="30.3199461"/>
+ <node id="1161079324" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:40Z" user="Ordin" uid="386508" lat="59.9426826" lon="30.3207933"/>
+ <node id="1161079329" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:49Z" user="Ordin" uid="386508" lat="59.9426533" lon="30.3207150"/>
+ <node id="1161079354" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:58Z" user="Ordin" uid="386508" lat="59.9426417" lon="30.3207299"/>
+ <node id="1161079362" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:55Z" user="Ordin" uid="386508" lat="59.9425321" lon="30.3204517"/>
+ <node id="1161079368" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:45Z" user="Ordin" uid="386508" lat="59.9431767" lon="30.3203863"/>
+ <node id="1161079382" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:56Z" user="Ordin" uid="386508" lat="59.9430923" lon="30.3202443"/>
+ <node id="1161079398" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:04Z" user="Ordin" uid="386508" lat="59.9425367" lon="30.3204416"/>
+ <node id="1161079418" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:04Z" user="Ordin" uid="386508" lat="59.9424877" lon="30.3203081"/>
+ <node id="1161079422" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:57Z" user="Ordin" uid="386508" lat="59.9425102" lon="30.3203655"/>
+ <node id="1161079425" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:59Z" user="Ordin" uid="386508" lat="59.9431250" lon="30.3202068"/>
+ <node id="1161079428" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:35Z" user="Ordin" uid="386508" lat="59.9425003" lon="30.3203368"/>
+ <node id="1161079429" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:24:52Z" user="Ordin" uid="386508" lat="59.9425020" lon="30.3203754"/>
+ <node id="1161079432" visible="true" version="2" changeset="7331193" timestamp="2011-02-19T12:25:05Z" user="Ordin" uid="386508" lat="59.9426867" lon="30.3207606"/>
+ <node id="7804519467" visible="true" version="12" changeset="141361632" timestamp="2023-09-16T23:16:38Z" user="traveleditor" uid="8726248" lat="59.9424427" lon="30.3206658">
+  <tag k="historic" v="memorial"/>
+  <tag k="inscription" v="Здесь с 1948 по 1965 год жил выдающийся историк и востоковед, академик Василий Васильевич Струве"/>
+  <tag k="memorial" v="plaque"/>
+  <tag k="memorial:subject" v="Василий Васильевич Струве"/>
+  <tag k="name" v="В. В. Струве"/>
+  <tag k="subject:wikidata" v="Q647712"/>
+  <tag k="subject:wikipedia" v="ru:Струве, Василий Васильевич"/>
+ </node>
+ <node id="7804519468" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9425877" lon="30.3205929"/>
+ <node id="7804519471" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9424708" lon="30.3207371">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="7804519472" visible="true" version="2" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9424087" lon="30.3205447">
+  <tag k="access" v="no"/>
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="7804519473" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9425483" lon="30.3209029">
+  <tag k="entrance" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="11942555230" visible="true" version="1" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9426681" lon="30.3207546">
+  <tag k="addr:flats" v="1-;3;4А;5;48;51"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="1"/>
+ </node>
+ <node id="11942555233" visible="true" version="1" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9428363" lon="30.3199664">
+  <tag k="addr:flats" v="28-36"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="7"/>
+ </node>
+ <node id="11942555234" visible="true" version="1" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9429528" lon="30.3204218">
+  <tag k="addr:flats" v="11-16;18-19;57"/>
+  <tag k="entrance" v="main"/>
+  <tag k="ref" v="3"/>
+ </node>
+ <node id="11942555237" visible="true" version="1" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9427495" lon="30.3206807">
+  <tag k="addr:flats" v="4;6-10"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="2"/>
+ </node>
+ <node id="11942555255" visible="true" version="1" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9425271" lon="30.3204140">
+  <tag k="entrance" v="staircase"/>
+ </node>
+ <way id="100432952" visible="true" version="7" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195">
+  <nd ref="829224172"/>
+  <nd ref="1161079319"/>
+  <nd ref="1161079308"/>
+  <nd ref="1161079264"/>
+  <nd ref="11942555233"/>
+  <nd ref="1161079246"/>
+  <nd ref="1161079428"/>
+  <nd ref="1161079418"/>
+  <nd ref="1161079248"/>
+  <nd ref="1161079429"/>
+  <nd ref="1161079422"/>
+  <nd ref="11942555255"/>
+  <nd ref="1161079398"/>
+  <nd ref="1161079362"/>
+  <nd ref="7804519468"/>
+  <nd ref="1161079354"/>
+  <nd ref="1161079329"/>
+  <nd ref="11942555230"/>
+  <nd ref="1161079324"/>
+  <nd ref="1161079312"/>
+  <nd ref="1161079298"/>
+  <nd ref="1161079252"/>
+  <nd ref="1161079432"/>
+  <nd ref="11942555237"/>
+  <nd ref="11942555234"/>
+  <nd ref="1161079382"/>
+  <nd ref="1161079425"/>
+  <nd ref="1161079368"/>
+  <nd ref="1160112707"/>
+  <nd ref="1160112752"/>
+  <nd ref="1160112706"/>
+  <nd ref="1160112668"/>
+  <nd ref="7804519473"/>
+  <nd ref="1160112686"/>
+  <nd ref="1160112753"/>
+  <nd ref="7804519471"/>
+  <nd ref="7804519467"/>
+  <nd ref="1160112763"/>
+  <nd ref="1160112727"/>
+  <nd ref="7804519472"/>
+  <nd ref="1160112734"/>
+  <nd ref="1160112729"/>
+  <nd ref="829224319"/>
+  <nd ref="829224172"/>
+  <tag k="addr:city" v="Санкт-Петербург"/>
+  <tag k="addr:country" v="RU"/>
+  <tag k="addr:housenumber" v="27"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Миллионная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="4"/>
+ </way>
+</osm>

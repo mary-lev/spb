@@ -76,7 +76,6 @@
         "lit": "yes",
         "maxspeed": "RU:urban",
         "name": "Замятин переулок",
-        "old_name": "Замятин переулок",
         "parking:both": "lane",
         "parking:both:fee": "no",
         "parking:both:orientation": "parallel",

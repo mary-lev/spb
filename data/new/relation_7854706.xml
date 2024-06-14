@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2054225 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1145619237" visible="true" version="5" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9438986" lon="30.3210897"/>
+ <node id="1145619257" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9437309" lon="30.3216422"/>
+ <node id="1145619266" visible="true" version="5" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9439849" lon="30.3213809"/>
+ <node id="1145619271" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9435687" lon="30.3218247"/>
+ <node id="1145619278" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:30Z" user="Anton Khorev" uid="437809" lat="59.9437887" lon="30.3216040"/>
+ <node id="1145619308" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:31Z" user="Anton Khorev" uid="437809" lat="59.9437408" lon="30.3216600"/>
+ <node id="1145619312" visible="true" version="3" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9434920" lon="30.3215505"/>
+ <node id="1145619326" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:32Z" user="Anton Khorev" uid="437809" lat="59.9437134" lon="30.3216640"/>
+ <node id="5313073038" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:33Z" user="Anton Khorev" uid="437809" lat="59.9437658" lon="30.3214825"/>
+ <node id="5313073039" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:33Z" user="Anton Khorev" uid="437809" lat="59.9436601" lon="30.3216005"/>
+ <node id="5313073040" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:33Z" user="Anton Khorev" uid="437809" lat="59.9436723" lon="30.3216442"/>
+ <node id="5313073041" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:33Z" user="Anton Khorev" uid="437809" lat="59.9436350" lon="30.3216858"/>
+ <node id="5313073042" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:33Z" user="Anton Khorev" uid="437809" lat="59.9436001" lon="30.3215613"/>
+ <node id="5313073043" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:33Z" user="Anton Khorev" uid="437809" lat="59.9437432" lon="30.3214017"/>
+ <node id="5313073044" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:33Z" user="Anton Khorev" uid="437809" lat="59.9439028" lon="30.3211045">
+  <tag k="addr:housenumber" v="20"/>
+  <tag k="addr:street" v="Дворцовая набережная"/>
+ </node>
+ <node id="8416039661" visible="true" version="1" changeset="99129863" timestamp="2021-02-11T19:04:46Z" user="mini-me" uid="3846961" lat="59.9436233" lon="30.3214017">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <way id="99028179" visible="true" version="5" changeset="116516854" timestamp="2022-01-23T22:11:36Z" user="andrei000" uid="13473610">
+  <nd ref="1145619312"/>
+  <nd ref="1145619271"/>
+  <nd ref="1145619326"/>
+  <nd ref="1145619257"/>
+  <nd ref="1145619308"/>
+  <nd ref="1145619278"/>
+  <nd ref="1145619266"/>
+  <nd ref="5313073044"/>
+  <nd ref="1145619237"/>
+  <nd ref="8416039661"/>
+  <nd ref="1145619312"/>
+ </way>
+ <way id="550044804" visible="true" version="1" changeset="55051291" timestamp="2017-12-31T06:44:12Z" user="Anton Khorev" uid="437809">
+  <nd ref="5313073043"/>
+  <nd ref="5313073042"/>
+  <nd ref="5313073041"/>
+  <nd ref="5313073040"/>
+  <nd ref="5313073039"/>
+  <nd ref="5313073038"/>
+  <nd ref="5313073043"/>
+ </way>
+ <relation id="7854706" visible="true" version="3" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961">
+  <member type="way" ref="99028179" role="outer"/>
+  <member type="way" ref="550044804" role="inner"/>
+  <tag k="addr:housenumber" v="2"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Мошков переулок"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="2"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>

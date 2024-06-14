@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2054222 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1144552670" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:28Z" user="Anton Khorev" uid="437809" lat="59.9444027" lon="30.3249835"/>
+ <node id="1144552715" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:28Z" user="Anton Khorev" uid="437809" lat="59.9443490" lon="30.3250653"/>
+ <node id="1144552735" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9442366" lon="30.3252176"/>
+ <node id="1144552737" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9444570" lon="30.3249048"/>
+ <node id="1144599109" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9444065" lon="30.3248138"/>
+ <node id="1144599115" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9442554" lon="30.3241437"/>
+ <node id="1144599135" visible="true" version="3" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9439182" lon="30.3243914"/>
+ <node id="1144599140" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9443017" lon="30.3249561"/>
+ <node id="1144599167" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9440898" lon="30.3243462"/>
+ <node id="1144599169" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9442342" lon="30.3240770"/>
+ <node id="1144599173" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9441035" lon="30.3244406"/>
+ <node id="1144599208" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9442071" lon="30.3239841"/>
+ <node id="1144599231" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9442062" lon="30.3241882"/>
+ <node id="1144599233" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9441044" lon="30.3243879"/>
+ <node id="1144599238" visible="true" version="3" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195" lat="59.9444637" lon="30.3247825"/>
+ <node id="1144599287" visible="true" version="3" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195" lat="59.9444740" lon="30.3248834"/>
+ <node id="1144629853" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9440231" lon="30.3242428"/>
+ <node id="7804545554" visible="true" version="2" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9441459" lon="30.3249822">
+  <tag k="access" v="no"/>
+  <tag k="entrance" v="service"/>
+ </node>
+ <node id="7804545555" visible="true" version="2" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9441841" lon="30.3250813">
+  <tag k="addr:flats" v="5-10"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="1"/>
+ </node>
+ <node id="7804545558" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9440796" lon="30.3248102">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="7804545559" visible="true" version="2" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9440277" lon="30.3246755">
+  <tag k="entrance" v="shop"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="7804545560" visible="true" version="2" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9440017" lon="30.3246081">
+  <tag k="entrance" v="shop"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="7804545561" visible="true" version="2" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9439801" lon="30.3245520">
+  <tag k="access" v="private"/>
+  <tag k="addr:flats" v="1-4"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="1"/>
+ </node>
+ <node id="7804545562" visible="true" version="2" changeset="151996595" timestamp="2024-05-29T16:10:25Z" user="TrickyFoxy" uid="11528195" lat="59.9439448" lon="30.3244605">
+  <tag k="entrance" v="shop"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="11080052831" visible="true" version="2" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195" lat="59.9441817" lon="30.3246440"/>
+ <node id="11080052834" visible="true" version="2" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195" lat="59.9442109" lon="30.3242027"/>
+ <node id="11080052849" visible="true" version="2" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195" lat="59.9443980" lon="30.3247873"/>
+ <node id="11942555236" visible="true" version="2" changeset="152131442" timestamp="2024-06-01T17:13:48Z" user="OSM FTW" uid="17746333" lat="59.9441544" lon="30.3245730">
+  <tag k="entrance" v="staircase"/>
+ </node>
+ <node id="11942555240" visible="true" version="2" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195" lat="59.9443816" lon="30.3248476">
+  <tag k="access" v="no"/>
+  <tag k="addr:flats" v="6;14;2?;30-32;102"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="fixme" v="addr:flats"/>
+  <tag k="ref" v="8"/>
+ </node>
+ <node id="11942555242" visible="true" version="2" changeset="152131442" timestamp="2024-06-01T17:13:48Z" user="OSM FTW" uid="17746333" lat="59.9442100" lon="30.3247176">
+  <tag k="access" v="no"/>
+  <tag k="addr:flats" v="101"/>
+  <tag k="entrance" v="staircase"/>
+ </node>
+ <node id="11942555243" visible="true" version="2" changeset="152131442" timestamp="2024-06-01T17:13:48Z" user="OSM FTW" uid="17746333" lat="59.9442943" lon="30.3244634">
+  <tag k="addr:flats" v="11-18;20-22"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="3"/>
+ </node>
+ <node id="11942555245" visible="true" version="2" changeset="152131442" timestamp="2024-06-01T17:13:48Z" user="OSM FTW" uid="17746333" lat="59.9441907" lon="30.3242092">
+  <tag k="addr:flats" v="19;72;88-92"/>
+  <tag k="entrance" v="staircase"/>
+  <tag k="ref" v="3"/>
+ </node>
+ <node id="11964137544" visible="true" version="2" changeset="152644672" timestamp="2024-06-13T18:00:50Z" user="mini-me" uid="3846961" lat="59.9444556" lon="30.3247928">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="11964137554" visible="true" version="1" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195" lat="59.9444483" lon="30.3248019"/>
+ <way id="98942771" visible="true" version="5" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195">
+  <nd ref="1144599135"/>
+  <nd ref="7804545562"/>
+  <nd ref="7804545561"/>
+  <nd ref="7804545560"/>
+  <nd ref="7804545559"/>
+  <nd ref="7804545558"/>
+  <nd ref="7804545554"/>
+  <nd ref="7804545555"/>
+  <nd ref="1144552735"/>
+  <nd ref="1144552715"/>
+  <nd ref="1144552670"/>
+  <nd ref="1144552737"/>
+  <nd ref="1144599287"/>
+  <nd ref="11964137554"/>
+  <nd ref="11964137544"/>
+  <nd ref="1144599238"/>
+  <nd ref="1144599115"/>
+  <nd ref="1144599169"/>
+  <nd ref="1144599208"/>
+  <nd ref="1144629853"/>
+  <nd ref="1144599135"/>
+ </way>
+ <way id="98942774" visible="true" version="5" changeset="152404763" timestamp="2024-06-08T09:04:28Z" user="TrickyFoxy" uid="11528195">
+  <nd ref="1144599140"/>
+  <nd ref="11942555240"/>
+  <nd ref="1144599109"/>
+  <nd ref="11080052849"/>
+  <nd ref="11942555243"/>
+  <nd ref="11080052834"/>
+  <nd ref="1144599231"/>
+  <nd ref="11942555245"/>
+  <nd ref="1144599167"/>
+  <nd ref="1144599233"/>
+  <nd ref="1144599173"/>
+  <nd ref="11942555236"/>
+  <nd ref="11080052831"/>
+  <nd ref="11942555242"/>
+  <nd ref="1144599140"/>
+ </way>
+ <relation id="1417762" visible="true" version="4" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961">
+  <member type="way" ref="98942771" role="outer"/>
+  <member type="way" ref="98942774" role="inner"/>
+  <tag k="addr:housenumber" v="11"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Миллионная улица"/>
+  <tag k="building" v="yes"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>

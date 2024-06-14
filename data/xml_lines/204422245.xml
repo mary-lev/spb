@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (437107 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1669229575" visible="true" version="18" changeset="123444518" timestamp="2022-07-10T19:23:44Z" user="Anton Khorev" uid="437809" lat="59.9429782" lon="30.3220425">
+  <tag k="button_operated" v="no"/>
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="tactile_paving" v="no"/>
+  <tag k="traffic_signals:sound" v="no"/>
+ </node>
+ <node id="2144310379" visible="true" version="15" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9428853" lon="30.3221042">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2452195815" visible="true" version="10" changeset="103929416" timestamp="2021-04-30T18:07:38Z" user="Qpl" uid="12953198" lat="59.9438962" lon="30.3210124">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="tactile_paving" v="no"/>
+ </node>
+ <node id="5297495263" visible="true" version="3" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9439508" lon="30.3209498"/>
+ <node id="7241038025" visible="true" version="2" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9429873" lon="30.3220338">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7804519443" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9435982" lon="30.3213472"/>
+ <node id="7804519451" visible="true" version="1" changeset="89263470" timestamp="2020-08-11T17:18:53Z" user="mini-me" uid="3846961" lat="59.9431921" lon="30.3218029"/>
+ <node id="8416039650" visible="true" version="1" changeset="99129863" timestamp="2021-02-11T19:04:46Z" user="mini-me" uid="3846961" lat="59.9434142" lon="30.3215537"/>
+ <node id="8416039660" visible="true" version="1" changeset="99129863" timestamp="2021-02-11T19:04:46Z" user="mini-me" uid="3846961" lat="59.9433575" lon="30.3216173"/>
+ <way id="204422245" visible="true" version="30" changeset="141361621" timestamp="2023-09-16T23:16:04Z" user="traveleditor" uid="8726248">
+  <nd ref="5297495263"/>
+  <nd ref="2452195815"/>
+  <nd ref="7804519443"/>
+  <nd ref="8416039650"/>
+  <nd ref="8416039660"/>
+  <nd ref="7804519451"/>
+  <nd ref="7241038025"/>
+  <nd ref="1669229575"/>
+  <nd ref="2144310379"/>
+  <tag k="bus" v="no"/>
+  <tag k="foot" v="no"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="1"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="RU:urban"/>
+  <tag k="name" v="Мошков переулок"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="parking:left" v="lane"/>
+  <tag k="parking:left:fee" v="no"/>
+  <tag k="parking:left:orientation" v="parallel"/>
+  <tag k="parking:left:restriction:conditional" v="no_stopping @ (Tu 00:00-07:00)"/>
+  <tag k="parking:right:restriction" v="no_stopping"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="wikidata" v="Q4305306"/>
+  <tag k="wikipedia" v="ru:Мошков переулок"/>
+ </way>
+</osm>

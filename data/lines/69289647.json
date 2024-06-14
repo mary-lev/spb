@@ -60,7 +60,6 @@
         "lit": "yes",
         "maxspeed": "RU:urban",
         "name": "Замятин переулок",
-        "old_name": "Замятин переулок",
         "parking:both:restriction": "no_stopping",
         "surface": "asphalt",
         "wikidata": "Q4186109",

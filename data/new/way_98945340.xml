@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (4159560 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="1144629832" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9439323" lon="30.3240772"/>
+ <node id="1144629840" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9438448" lon="30.3242012"/>
+ <node id="1144629850" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9437495" lon="30.3239539"/>
+ <node id="1144629867" visible="true" version="2" changeset="62505995" timestamp="2018-09-12T01:56:29Z" user="Anton Khorev" uid="437809" lat="59.9438441" lon="30.3238272"/>
+ <node id="7804545567" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9438379" lon="30.3241832">
+  <tag k="entrance" v="yes"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="7804545570" visible="true" version="1" changeset="89263956" timestamp="2020-08-11T17:36:02Z" user="mini-me" uid="3846961" lat="59.9437603" lon="30.3239818">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <way id="98945340" visible="true" version="4" changeset="148572310" timestamp="2024-03-13T01:13:51Z" user="mini-me" uid="3846961">
+  <nd ref="1144629867"/>
+  <nd ref="1144629832"/>
+  <nd ref="1144629840"/>
+  <nd ref="7804545567"/>
+  <nd ref="7804545570"/>
+  <nd ref="1144629850"/>
+  <nd ref="1144629867"/>
+  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Миллионная улица"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>

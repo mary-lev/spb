@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (436330 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="778239478" visible="true" version="5" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9450042" lon="30.3276359"/>
+ <node id="778239479" visible="true" version="5" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9456502" lon="30.3271226"/>
+ <node id="778239480" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9453591" lon="30.3267725"/>
+ <node id="778239482" visible="true" version="5" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9452599" lon="30.3257407"/>
+ <node id="778239483" visible="true" version="5" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9452541" lon="30.3274258"/>
+ <node id="778239485" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9451426" lon="30.3270163"/>
+ <node id="778239488" visible="true" version="3" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9447037" lon="30.3263781"/>
+ <node id="778258094" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9449726" lon="30.3269194"/>
+ <node id="778258103" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9452340" lon="30.3261345"/>
+ <node id="778258140" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9451845" lon="30.3264651"/>
+ <node id="778258145" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9451062" lon="30.3260719"/>
+ <node id="778258193" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9450546" lon="30.3272269"/>
+ <node id="778258207" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9448827" lon="30.3265045"/>
+ <node id="778258231" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9449458" lon="30.3267397"/>
+ <node id="778258242" visible="true" version="3" changeset="14366507" timestamp="2012-12-22T14:11:59Z" user="Danidin9" uid="395588" lat="59.9450376" lon="30.3268503"/>
+ <node id="778258253" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9451167" lon="30.3262285"/>
+ <node id="778258269" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9451882" lon="30.3259769"/>
+ <node id="778258290" visible="true" version="4" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9451520" lon="30.3262295"/>
+ <node id="778258308" visible="true" version="3" changeset="14366507" timestamp="2012-12-22T14:12:00Z" user="Danidin9" uid="395588" lat="59.9451196" lon="30.3271579"/>
+ <node id="1312212585" visible="true" version="5" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9452424" lon="30.3269039">
+  <tag k="entrance" v="main"/>
+ </node>
+ <node id="1312226157" visible="true" version="3" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9454895" lon="30.3272438"/>
+ <node id="5900837655" visible="true" version="2" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9452733" lon="30.3257854">
+  <tag k="addr:housenumber" v="6"/>
+  <tag k="addr:street" v="Дворцовая набережная"/>
+ </node>
+ <node id="6967497337" visible="true" version="1" changeset="76928829" timestamp="2019-11-11T20:20:23Z" user="Dinamik" uid="39040" lat="59.9449640" lon="30.3267196"/>
+ <node id="6967497338" visible="true" version="1" changeset="76928829" timestamp="2019-11-11T20:20:23Z" user="Dinamik" uid="39040" lat="59.9450022" lon="30.3268880">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="6967497343" visible="true" version="1" changeset="76928829" timestamp="2019-11-11T20:20:23Z" user="Dinamik" uid="39040" lat="59.9451069" lon="30.3271103"/>
+ <node id="6967497344" visible="true" version="2" changeset="89264711" timestamp="2020-08-11T18:04:01Z" user="mini-me" uid="3846961" lat="59.9451567" lon="30.3270682"/>
+ <node id="8707406755" visible="true" version="1" changeset="104271897" timestamp="2021-05-06T19:39:05Z" user="mini-me" uid="3846961" lat="59.9450965" lon="30.3259280">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="8707406757" visible="true" version="1" changeset="104271897" timestamp="2021-05-06T19:39:05Z" user="mini-me" uid="3846961" lat="59.9451308" lon="30.3260434"/>
+ <way id="62289476" visible="true" version="12" changeset="104271897" timestamp="2021-05-06T19:39:05Z" user="mini-me" uid="3846961">
+  <nd ref="778239488"/>
+  <nd ref="778239478"/>
+  <nd ref="778239483"/>
+  <nd ref="6967497344"/>
+  <nd ref="778239485"/>
+  <nd ref="1312212585"/>
+  <nd ref="778239480"/>
+  <nd ref="1312226157"/>
+  <nd ref="778239479"/>
+  <nd ref="5900837655"/>
+  <nd ref="778239482"/>
+  <nd ref="8707406755"/>
+  <nd ref="778239488"/>
+ </way>
+ <way id="62292122" visible="true" version="3" changeset="76928829" timestamp="2019-11-11T20:20:23Z" user="Dinamik" uid="39040">
+  <nd ref="778258242"/>
+  <nd ref="6967497343"/>
+  <nd ref="778258308"/>
+  <nd ref="778258193"/>
+  <nd ref="778258094"/>
+  <nd ref="6967497338"/>
+  <nd ref="778258242"/>
+ </way>
+ <way id="62292128" visible="true" version="3" changeset="76928829" timestamp="2019-11-11T20:20:23Z" user="Dinamik" uid="39040">
+  <nd ref="778258253"/>
+  <nd ref="778258140"/>
+  <nd ref="6967497337"/>
+  <nd ref="778258231"/>
+  <nd ref="778258207"/>
+  <nd ref="778258253"/>
+ </way>
+ <way id="62292129" visible="true" version="3" changeset="104271897" timestamp="2021-05-06T19:39:05Z" user="mini-me" uid="3846961">
+  <nd ref="778258269"/>
+  <nd ref="778258103"/>
+  <nd ref="778258290"/>
+  <nd ref="778258145"/>
+  <nd ref="8707406757"/>
+  <nd ref="778258269"/>
+ </way>
+ <relation id="969622" visible="true" version="38" changeset="143652372" timestamp="2023-11-05T14:26:14Z" user="mini-me" uid="3846961">
+  <member type="way" ref="62292129" role="inner"/>
+  <member type="way" ref="62292128" role="inner"/>
+  <member type="way" ref="62292122" role="inner"/>
+  <member type="way" ref="62289476" role="outer"/>
+  <tag k="addr:housenumber" v="5/1"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Миллионная улица"/>
+  <tag k="building" v="castle"/>
+  <tag k="building:levels" v="4"/>
+  <tag k="castle_type" v="palace"/>
+  <tag k="historic" v="castle"/>
+  <tag k="name" v="Мраморный дворец"/>
+  <tag k="name:de" v="Marmorpalast"/>
+  <tag k="name:en" v="Marble Palace"/>
+  <tag k="name:es" v="Palacio de Mármol"/>
+  <tag k="name:fi" v="Marmoripalatsi"/>
+  <tag k="name:fr" v="Palais de Marbre"/>
+  <tag k="name:nl" v="Marmerpaleis"/>
+  <tag k="name:ru" v="Мраморный дворец"/>
+  <tag k="opening_hours" v="Mo, Th, Fr-Sa 10:00-18:00; Th 13:00-21:00; Tu off"/>
+  <tag k="phone" v="+7 812 5954248"/>
+  <tag k="tourism" v="museum"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="website" v="http://www.rusmuseum.ru/marble-palace/"/>
+  <tag k="wikidata" v="Q283120"/>
+  <tag k="wikipedia" v="ru:Мраморный дворец (Санкт-Петербург)"/>
+ </relation>
+</osm>

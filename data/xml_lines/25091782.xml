@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (2532010 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="26056561" visible="true" version="11" changeset="80149191" timestamp="2020-01-27T14:30:40Z" user="mini-me" uid="3846961" lat="59.9413743" lon="30.2891125"/>
+ <node id="273093416" visible="true" version="3" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9424808" lon="30.2878179"/>
+ <node id="3374969063" visible="true" version="3" changeset="52004154" timestamp="2017-09-13T12:02:43Z" user="Константин Гам" uid="392109" lat="59.9448914" lon="30.2849997"/>
+ <node id="4166914337" visible="true" version="5" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9413925" lon="30.2890911"/>
+ <node id="7175763128" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9414108" lon="30.2890699">
+  <tag k="direction" v="forward"/>
+  <tag k="highway" v="give_way"/>
+ </node>
+ <node id="7762302435" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9420631" lon="30.2883078"/>
+ <node id="7762302441" visible="true" version="4" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9416468" lon="30.2887942"/>
+ <node id="7762302456" visible="true" version="1" changeset="88635690" timestamp="2020-07-28T18:12:15Z" user="Anton Khorev" uid="437809" lat="59.9442835" lon="30.2857096"/>
+ <node id="7762302457" visible="true" version="3" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9422322" lon="30.2881090"/>
+ <node id="7762302477" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9417945" lon="30.2886200"/>
+ <node id="7762303293" visible="true" version="3" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9421472" lon="30.2882078"/>
+ <node id="7778310349" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9438163" lon="30.2862584"/>
+ <node id="8147542403" visible="true" version="1" changeset="94525882" timestamp="2020-11-20T22:14:36Z" user="fdjrgio" uid="5459104" lat="59.9445809" lon="30.2853623"/>
+ <node id="8147542411" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9441377" lon="30.2858831"/>
+ <node id="8147542412" visible="true" version="3" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9437168" lon="30.2863733"/>
+ <node id="8147542416" visible="true" version="3" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9435503" lon="30.2865702"/>
+ <node id="8147560120" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9434645" lon="30.2866693"/>
+ <node id="8147560122" visible="true" version="3" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9432601" lon="30.2869081"/>
+ <node id="8147560128" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9430703" lon="30.2871295"/>
+ <node id="8147560132" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9428316" lon="30.2874083"/>
+ <node id="8147560142" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9422641" lon="30.2880709"/>
+ <node id="8147737259" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9440062" lon="30.2860367"/>
+ <node id="8147737261" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9438851" lon="30.2861780"/>
+ <node id="8149840875" visible="true" version="1" changeset="94562280" timestamp="2020-11-21T21:24:32Z" user="fdjrgio" uid="5459104" lat="59.9446093" lon="30.2853291"/>
+ <node id="8149840879" visible="true" version="1" changeset="94562280" timestamp="2020-11-21T21:24:32Z" user="fdjrgio" uid="5459104" lat="59.9444527" lon="30.2855120"/>
+ <node id="8149840885" visible="true" version="3" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9440682" lon="30.2859632"/>
+ <node id="8149840895" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9434385" lon="30.2866998"/>
+ <node id="8149877217" visible="true" version="3" changeset="126900384" timestamp="2022-10-02T16:07:43Z" user="Anton Khorev" uid="437809" lat="59.9431183" lon="30.2870749"/>
+ <node id="8149877219" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9429402" lon="30.2872815"/>
+ <node id="8149877228" visible="true" version="3" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9428178" lon="30.2874251"/>
+ <node id="8149877233" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9425883" lon="30.2876924"/>
+ <node id="8149877234" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9423404" lon="30.2879818"/>
+ <node id="8149877237" visible="true" version="2" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9425468" lon="30.2877409"/>
+ <node id="10054001215" visible="true" version="1" changeset="126661691" timestamp="2022-09-26T15:33:22Z" user="Anton Khorev" uid="437809" lat="59.9420495" lon="30.2883236"/>
+ <node id="10061398588" visible="true" version="1" changeset="126787572" timestamp="2022-09-29T16:08:23Z" user="Anton Khorev" uid="437809" lat="59.9438072" lon="30.2862689"/>
+ <way id="25091782" visible="true" version="58" changeset="141361621" timestamp="2023-09-16T23:16:04Z" user="traveleditor" uid="8726248">
+  <nd ref="3374969063"/>
+  <nd ref="8149840875"/>
+  <nd ref="8147542403"/>
+  <nd ref="8149840879"/>
+  <nd ref="7762302456"/>
+  <nd ref="8147542411"/>
+  <nd ref="8149840885"/>
+  <nd ref="8147737259"/>
+  <nd ref="8147737261"/>
+  <nd ref="7778310349"/>
+  <nd ref="10061398588"/>
+  <nd ref="8147542412"/>
+  <nd ref="8147542416"/>
+  <nd ref="8147560120"/>
+  <nd ref="8149840895"/>
+  <nd ref="8147560122"/>
+  <nd ref="8149877217"/>
+  <nd ref="8147560128"/>
+  <nd ref="8149877219"/>
+  <nd ref="8147560132"/>
+  <nd ref="8149877228"/>
+  <nd ref="8149877233"/>
+  <nd ref="8149877237"/>
+  <nd ref="273093416"/>
+  <nd ref="8149877234"/>
+  <nd ref="8147560142"/>
+  <nd ref="7762302457"/>
+  <nd ref="7762303293"/>
+  <nd ref="7762302435"/>
+  <nd ref="10054001215"/>
+  <nd ref="7762302477"/>
+  <nd ref="7762302441"/>
+  <nd ref="7175763128"/>
+  <nd ref="4166914337"/>
+  <nd ref="26056561"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="1"/>
+  <tag k="lit" v="yes"/>
+  <tag k="maxspeed" v="RU:urban"/>
+  <tag k="name" v="улица Репина"/>
+  <tag k="name:etymology:wikidata" v="Q172911"/>
+  <tag k="name:ru" v="улица Репина"/>
+  <tag k="surface" v="sett"/>
+  <tag k="vehicle" v="destination"/>
+  <tag k="wikidata" v="Q4473794"/>
+  <tag k="wikipedia" v="ru:Улица Репина (Санкт-Петербург)"/>
+ </way>
+</osm>

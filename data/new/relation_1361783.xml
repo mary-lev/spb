@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (3075292 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="321561952" visible="true" version="33" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9457372" lon="30.3307276"/>
+ <node id="321561956" visible="true" version="19" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9459240" lon="30.3307748"/>
+ <node id="321561957" visible="true" version="25" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9462467" lon="30.3305107"/>
+ <node id="321562002" visible="true" version="19" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9463227" lon="30.3308543"/>
+ <node id="321562003" visible="true" version="18" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9459955" lon="30.3311181"/>
+ <node id="321562201" visible="true" version="28" changeset="49211681" timestamp="2017-06-03T03:55:02Z" user="Anton Khorev" uid="437809" lat="59.9463426" lon="30.3302409"/>
+ <node id="321563251" visible="true" version="10" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9462340" lon="30.3307174"/>
+ <node id="321563338" visible="true" version="9" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9462603" lon="30.3305753"/>
+ <node id="321563339" visible="true" version="9" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9462307" lon="30.3306551"/>
+ <node id="321563340" visible="true" version="9" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9462559" lon="30.3307713"/>
+ <node id="321563341" visible="true" version="9" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9463056" lon="30.3307786"/>
+ <node id="321564896" visible="true" version="9" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9460035" lon="30.3307125"/>
+ <node id="321564899" visible="true" version="8" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9460610" lon="30.3306632"/>
+ <node id="1130275212" visible="true" version="4" changeset="14366507" timestamp="2012-12-22T14:11:30Z" user="Danidin9" uid="395588" lat="59.9458829" lon="30.3313692"/>
+ <node id="1130275222" visible="true" version="5" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9461336" lon="30.3310031"/>
+ <node id="1130275230" visible="true" version="5" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9462414" lon="30.3306045"/>
+ <node id="1130275237" visible="true" version="5" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9460770" lon="30.3310559"/>
+ <node id="1130275248" visible="true" version="5" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9462799" lon="30.3307813"/>
+ <node id="1312083100" visible="true" version="4" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9464854" lon="30.3309018"/>
+ <node id="1312083102" visible="true" version="4" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9464659" lon="30.3309180"/>
+ <node id="10184721817" visible="true" version="1" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9458480" lon="30.3312157">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="10184721820" visible="true" version="1" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9464131" lon="30.3305671">
+  <tag k="access" v="no"/>
+  <tag k="entrance" v="service"/>
+ </node>
+ <node id="10184721821" visible="true" version="1" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9459981" lon="30.3305178">
+  <tag k="access" v="no"/>
+  <tag k="entrance" v="service"/>
+ </node>
+ <node id="10184721830" visible="true" version="1" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9460381" lon="30.3310856"/>
+ <node id="10184721832" visible="true" version="1" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9460979" lon="30.3308361"/>
+ <node id="10184721833" visible="true" version="1" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9460401" lon="30.3308833"/>
+ <node id="10184721834" visible="true" version="1" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9459602" lon="30.3309487"/>
+ <node id="10184721836" visible="true" version="1" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9458145" lon="30.3310681">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="10184721849" visible="true" version="1" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961" lat="59.9463015" lon="30.3308710"/>
+ <way id="83239551" visible="true" version="9" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961">
+  <nd ref="1130275212"/>
+  <nd ref="10184721817"/>
+  <nd ref="10184721836"/>
+  <nd ref="321561952"/>
+  <nd ref="10184721821"/>
+  <nd ref="321562201"/>
+  <nd ref="10184721820"/>
+  <nd ref="1312083100"/>
+  <nd ref="1312083102"/>
+  <nd ref="1130275212"/>
+ </way>
+ <way id="93757341" visible="true" version="3" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961">
+  <nd ref="1130275237"/>
+  <nd ref="10184721833"/>
+  <nd ref="321564896"/>
+  <nd ref="321561956"/>
+  <nd ref="10184721834"/>
+  <nd ref="321562003"/>
+  <nd ref="10184721830"/>
+  <nd ref="1130275237"/>
+ </way>
+ <way id="97637545" visible="true" version="2" changeset="128914088" timestamp="2022-11-15T01:06:47Z" user="mini-me" uid="3846961">
+  <nd ref="1130275222"/>
+  <nd ref="10184721849"/>
+  <nd ref="321562002"/>
+  <nd ref="321563341"/>
+  <nd ref="1130275248"/>
+  <nd ref="321563340"/>
+  <nd ref="321563251"/>
+  <nd ref="321563339"/>
+  <nd ref="1130275230"/>
+  <nd ref="321563338"/>
+  <nd ref="321561957"/>
+  <nd ref="321564899"/>
+  <nd ref="10184721832"/>
+  <nd ref="1130275222"/>
+ </way>
+ <relation id="1361783" visible="true" version="8" changeset="111282590" timestamp="2021-09-16T09:52:37Z" user="Regular User" uid="12786866">
+  <member type="way" ref="93757341" role="inner"/>
+  <member type="way" ref="97637545" role="inner"/>
+  <member type="way" ref="83239551" role="outer"/>
+  <tag k="addr:housenumber" v="4"/>
+  <tag k="addr:postcode" v="191186"/>
+  <tag k="addr:street" v="Дворцовая набережная"/>
+  <tag k="building" v="university"/>
+  <tag k="building:levels" v="3"/>
+  <tag k="roof:shape" v="flat"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>
